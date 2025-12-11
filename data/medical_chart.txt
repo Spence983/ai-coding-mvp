@@ -1,0 +1,59 @@
+METADATA
+Note ID: note-meta-case12
+
+In-Person Visit 3/18/2025, 14:30 EST
+
+HPI
+Note ID: note-hpi-case12
+
+Reason for consult Parkinson's Disease Seizure Migraine Carpal Tunnel Syndrome Sleep Disorder HPI 68-year-old male who presented for follow-up of Parkinson's disease and new-onset convulsive episodes. Patient has a 5-year history of Parkinson's disease, initially diagnosed at age 63, and has been managed on carbidopa-levodopa with good initial response. Over the past year, he has noticed increasing tremor, particularly in his right hand, worsening rigidity, and slowed gait. Patient reports two episodes of generalized convulsive seizures over the past 3 months. The first episode occurred 3 months ago, witnessed by his wife, who described loss of consciousness, generalized tonic-clonic movements lasting approximately 2 minutes, followed by post-ictal confusion for 15 minutes. The second episode occurred 2 weeks ago with similar characteristics. Patient denies any prodromal symptoms, aura, or warning before the seizures. He also endorses recurrent severe headaches over the past 6 months, described as throbbing, unilateral, and associated with photophobia and nausea, occurring 1-2 times per week. Patient reports bilateral hand numbness and tingling, worse in the right hand, particularly at night. Additionally, patient complains of excessive daytime sleepiness and difficulty maintaining sleep. He denies any history of head trauma, stroke, or prior seizures before the recent episodes. Family history is significant for Parkinson's disease in his father.
+
+ROS
+Note ID: note-ros-case12
+
+Reviewed
+
+ALLERGIES
+Note ID: note-allergies-case12
+
+Penicillin causes rash
+
+PAST MEDICAL HISTORY
+Note ID: note-pmh-case12
+
+Parkinson's disease, Hypertension, Hyperlipidemia, Depression
+
+PAST SURGICAL HISTORY
+Note ID: note-psh-case12
+
+Appendectomy 1985, Right knee arthroscopy 2010
+
+FAMILY HISTORY
+Note ID: note-fh-case12
+
+Father: Parkinson's disease, died at age 75. Mother: Hypertension, Diabetes. Paternal grandfather: Parkinson's disease.
+
+SOCIAL HISTORY
+Note ID: note-sh-case12
+
+Tobacco, Alcohol & Illicit drug use Former smoker, quit 20 years ago. Occasional alcohol use, 1-2 drinks per month. Denies illicit drug use.
+
+DIAGNOSTICS
+Note ID: note-diag-case12
+
+EEG Yes EEG performed date 3/12/2025 EEG comments Interictal epileptiform discharges in the left temporal region. Background slowing noted. MRI brain Yes MRI performed date 3/15/2025 MRI comments Mild cerebral atrophy. No acute intracranial abnormalities. Mild white matter hyperintensities. Nerve conduction study Yes NCS performed date 3/17/2025 NCS comments Bilateral median nerve compression at the wrist, more pronounced on the right. Prolonged distal latencies consistent with carpal tunnel syndrome. Polysomnography Yes PSG performed date 3/10/2025 PSG comments Moderate obstructive sleep apnea with AHI of 18 events per hour. Lab results Complete blood count and comprehensive metabolic panel within normal limits. Carbidopa-levodopa levels therapeutic.
+
+PHYSICAL EXAM
+Note ID: note-exam-case12
+
+Neuro exam General Appearance: Well-appearing male in no acute distress. Appears comfortable and cooperative. Vital Signs: Blood pressure 132/78 mm/Hg, heart rate 72 bpm, respiratory rate 14/min, temperature 98.2°F, oxygen saturation 98% on room air, BMI 26.5 kg/m². Neurological: Mental status: Awake and alert. Oriented to person, place, time, and situation. Speech is slightly hypophonic with reduced facial expression. Patient follows commands appropriately. Cranial Nerves: Cranial nerves II-XII intact. Visual fields full to confrontation. Extraocular movements intact. Mild masked facies noted. Facial sensation and strength symmetric. Hearing intact bilaterally. Motor: Full strength in all muscle groups bilaterally. No drift. Resting tremor noted in the right hand, 3-4 Hz frequency, pill-rolling quality. Mild cogwheel rigidity noted at the wrists bilaterally, more pronounced on the right. Bradykinesia present with reduced amplitude of finger taps, more marked on the right. Postural stability: Retropulsion test positive with 2 steps backward. Sensory: Decreased sensation to light touch and pinprick in the median nerve distribution bilaterally (palmar aspect of thumb, index, middle, and radial half of ring finger), more pronounced on the right. Vibration sense intact. Reflexes: Biceps, triceps, brachioradialis, patellar, and Achilles reflexes 2+ and symmetric bilaterally. Special testing: Phalen's test positive bilaterally, more pronounced on the right. Tinel's sign positive over the median nerve at the wrist bilaterally. Gait: Shuffling gait with reduced arm swing, more pronounced on the right. Mild festination noted. Difficulty with turns requiring multiple steps. Coordination: Finger-to-nose and heel-to-shin testing normal bilaterally. Rapid alternating movements slowed bilaterally.
+
+VITALS
+Note ID: note-vitals-case12
+
+Glucose (mg/dL) 98 BP (mm/Hg) 132/78 Oxygen saturation (%) 98 Pulse (bpm) 72 Fever symptoms No
+
+ASSESSMENT
+Note ID: note-assess-case12
+
+Differential diagnosis Parkinson's disease with motor fluctuations Generalized convulsive seizures, new onset Migraine without aura Carpal tunnel syndrome, bilateral Obstructive sleep apnea Assessment 68-year-old male with established Parkinson's disease showing progression with increased tremor, rigidity, and bradykinesia. New-onset generalized convulsive seizures with EEG findings of interictal epileptiform discharges. Physical examination confirms Parkinsonian features including resting tremor, cogwheel rigidity, bradykinesia, and gait abnormalities. Nerve conduction studies confirm bilateral carpal tunnel syndrome. Polysomnography reveals moderate obstructive sleep apnea. Patient will require optimization of Parkinson's medications, initiation of antiepileptic therapy, migraine prophylaxis, consideration of carpal tunnel release surgery, and CPAP therapy for sleep apnea. Close neurological follow-up recommended.

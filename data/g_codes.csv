@@ -1,0 +1,932 @@
+,order_number,icd_code,valid_for_transaction,short_description,long_description
+6268,6269,G000,1,Hemophilus meningitis,Hemophilus meningitis
+6269,6270,G001,1,Pneumococcal meningitis,Pneumococcal meningitis
+6270,6271,G002,1,Streptococcal meningitis,Streptococcal meningitis
+6271,6272,G003,1,Staphylococcal meningitis,Staphylococcal meningitis
+6272,6273,G008,1,Other bacterial meningitis,Other bacterial meningitis
+6273,6274,G009,1,"Bacterial meningitis, unspecified","Bacterial meningitis, unspecified"
+6274,6275,G01,1,Meningitis in bacterial diseases classified elsewhere,Meningitis in bacterial diseases classified elsewhere
+6275,6276,G02,1,Meningitis in oth infec/parastc diseases classd elswhr,Meningitis in other infectious and parasitic diseases classified elsewhere
+6276,6277,G03,0,Meningitis due to other and unspecified causes,Meningitis due to other and unspecified causes
+6277,6278,G030,1,Nonpyogenic meningitis,Nonpyogenic meningitis
+6278,6279,G031,1,Chronic meningitis,Chronic meningitis
+6279,6280,G032,1,Benign recurrent meningitis [Mollaret],Benign recurrent meningitis [Mollaret]
+6280,6281,G038,1,Meningitis due to other specified causes,Meningitis due to other specified causes
+6281,6282,G039,1,"Meningitis, unspecified","Meningitis, unspecified"
+6282,6283,G04,0,"Encephalitis, myelitis and encephalomyelitis","Encephalitis, myelitis and encephalomyelitis"
+6283,6284,G040,0,Acute disseminated encephalitis and encephalomyelitis (ADEM),Acute disseminated encephalitis and encephalomyelitis (ADEM)
+6284,6285,G0400,1,"Acute disseminated encephalitis and encephalomyelitis, unsp","Acute disseminated encephalitis and encephalomyelitis, unspecified"
+6285,6286,G0401,1,Postinfect acute dissem encephalitis and encephalomyelitis,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM)
+6286,6287,G0402,1,"Postimmun ac dissem encphlts, myelitis and encephalomyelitis","Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis"
+6287,6288,G041,1,Tropical spastic paraplegia,Tropical spastic paraplegia
+6288,6289,G042,1,"Bacterial meningoencephalitis and meningomyelitis, NEC","Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified"
+6289,6290,G043,0,Acute necrotizing hemorrhagic encephalopathy,Acute necrotizing hemorrhagic encephalopathy
+6290,6291,G0430,1,"Acute necrotizing hemorrhagic encephalopathy, unspecified","Acute necrotizing hemorrhagic encephalopathy, unspecified"
+6291,6292,G0431,1,Postinfectious acute necrotizing hemorrhagic encephalopathy,Postinfectious acute necrotizing hemorrhagic encephalopathy
+6292,6293,G0432,1,Postimmun acute necrotizing hemorrhagic encephalopathy,Postimmunization acute necrotizing hemorrhagic encephalopathy
+6293,6294,G0439,1,Other acute necrotizing hemorrhagic encephalopathy,Other acute necrotizing hemorrhagic encephalopathy
+6294,6295,G048,0,"Other encephalitis, myelitis and encephalomyelitis","Other encephalitis, myelitis and encephalomyelitis"
+6295,6296,G0481,1,Other encephalitis and encephalomyelitis,Other encephalitis and encephalomyelitis
+6296,6297,G0482,1,Acute flaccid myelitis,Acute flaccid myelitis
+6297,6298,G0489,1,Other myelitis,Other myelitis
+6298,6299,G049,0,"Encephalitis, myelitis and encephalomyelitis, unspecified","Encephalitis, myelitis and encephalomyelitis, unspecified"
+6299,6300,G0490,1,"Encephalitis and encephalomyelitis, unspecified","Encephalitis and encephalomyelitis, unspecified"
+6300,6301,G0491,1,"Myelitis, unspecified","Myelitis, unspecified"
+6301,6302,G05,0,"Encphlts, myelitis & encephalomyelitis in dis classd elswhr","Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere"
+6302,6303,G053,1,Encephalitis and encephalomyelitis in diseases classd elswhr,Encephalitis and encephalomyelitis in diseases classified elsewhere
+6303,6304,G054,1,Myelitis in diseases classified elsewhere,Myelitis in diseases classified elsewhere
+6304,6305,G06,0,Intracranial and intraspinal abscess and granuloma,Intracranial and intraspinal abscess and granuloma
+6305,6306,G060,1,Intracranial abscess and granuloma,Intracranial abscess and granuloma
+6306,6307,G061,1,Intraspinal abscess and granuloma,Intraspinal abscess and granuloma
+6307,6308,G062,1,"Extradural and subdural abscess, unspecified","Extradural and subdural abscess, unspecified"
+6308,6309,G07,1,Intcrn & intraspinal abscs & granuloma in dis classd elswhr,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere
+6309,6310,G08,1,Intracranial and intraspinal phlebitis and thrombophlebitis,Intracranial and intraspinal phlebitis and thrombophlebitis
+6310,6311,G09,1,Sequelae of inflammatory diseases of central nervous system,Sequelae of inflammatory diseases of central nervous system
+6311,6312,G10,1,Huntington's disease,Huntington's disease
+6312,6313,G11,0,Hereditary ataxia,Hereditary ataxia
+6313,6314,G110,1,Congenital nonprogressive ataxia,Congenital nonprogressive ataxia
+6314,6315,G111,0,Early-onset cerebellar ataxia,Early-onset cerebellar ataxia
+6315,6316,G1110,1,"Early-onset cerebellar ataxia, unspecified","Early-onset cerebellar ataxia, unspecified"
+6316,6317,G1111,1,Friedreich ataxia,Friedreich ataxia
+6317,6318,G1119,1,Other early-onset cerebellar ataxia,Other early-onset cerebellar ataxia
+6318,6319,G112,1,Late-onset cerebellar ataxia,Late-onset cerebellar ataxia
+6319,6320,G113,1,Cerebellar ataxia with defective DNA repair,Cerebellar ataxia with defective DNA repair
+6320,6321,G114,1,Hereditary spastic paraplegia,Hereditary spastic paraplegia
+6321,6322,G115,1,Hypomyelination - hypogonadotropic hypogonadism - hypodontia,Hypomyelination - hypogonadotropic hypogonadism - hypodontia
+6322,6323,G116,1,Leukodystrophy with vanishing white matter disease,Leukodystrophy with vanishing white matter disease
+6323,6324,G118,1,Other hereditary ataxias,Other hereditary ataxias
+6324,6325,G119,1,"Hereditary ataxia, unspecified","Hereditary ataxia, unspecified"
+6325,6326,G12,0,Spinal muscular atrophy and related syndromes,Spinal muscular atrophy and related syndromes
+6326,6327,G120,1,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]","Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]"
+6327,6328,G121,1,Other inherited spinal muscular atrophy,Other inherited spinal muscular atrophy
+6328,6329,G122,0,Motor neuron disease,Motor neuron disease
+6329,6330,G1220,1,"Motor neuron disease, unspecified","Motor neuron disease, unspecified"
+6330,6331,G1221,1,Amyotrophic lateral sclerosis,Amyotrophic lateral sclerosis
+6331,6332,G1222,1,Progressive bulbar palsy,Progressive bulbar palsy
+6332,6333,G1223,1,Primary lateral sclerosis,Primary lateral sclerosis
+6333,6334,G1224,1,Familial motor neuron disease,Familial motor neuron disease
+6334,6335,G1225,1,Progressive spinal muscle atrophy,Progressive spinal muscle atrophy
+6335,6336,G1229,1,Other motor neuron disease,Other motor neuron disease
+6336,6337,G128,1,Other spinal muscular atrophies and related syndromes,Other spinal muscular atrophies and related syndromes
+6337,6338,G129,1,"Spinal muscular atrophy, unspecified","Spinal muscular atrophy, unspecified"
+6338,6339,G13,0,Systemic atrophies aff cnsl in diseases classd elswhr,Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere
+6339,6340,G130,1,Paraneoplastic neuromyopathy and neuropathy,Paraneoplastic neuromyopathy and neuropathy
+6340,6341,G131,1,Oth systemic atrophy aff cnsl in neoplastic disease,Other systemic atrophy primarily affecting central nervous system in neoplastic disease
+6341,6342,G132,1,Systemic atrophy primarily affecting the cnsl in myxedema,Systemic atrophy primarily affecting the central nervous system in myxedema
+6342,6343,G138,1,Systemic atrophy aff cnsl in oth diseases classd elswhr,Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere
+6343,6344,G14,1,Postpolio syndrome,Postpolio syndrome
+6344,6345,G20,0,Parkinson's disease,Parkinson's disease
+6345,6346,G20A,0,Parkinson's disease without dyskinesia,Parkinson's disease without dyskinesia
+6346,6347,G20A1,1,"Parkinson's dis w/o dyskinesia, w/o mention of fluctuations","Parkinson's disease without dyskinesia, without mention of fluctuations"
+6347,6348,G20A2,1,"Parkinson's disease without dyskinesia, with fluctuations","Parkinson's disease without dyskinesia, with fluctuations"
+6348,6349,G20B,0,Parkinson's disease with dyskinesia,Parkinson's disease with dyskinesia
+6349,6350,G20B1,1,"Parkinson's dis with dyskinesia, w/o mention of fluctuations","Parkinson's disease with dyskinesia, without mention of fluctuations"
+6350,6351,G20B2,1,"Parkinson's disease with dyskinesia, with fluctuations","Parkinson's disease with dyskinesia, with fluctuations"
+6351,6352,G20C,1,"Parkinsonism, unspecified","Parkinsonism, unspecified"
+6352,6353,G21,0,Secondary parkinsonism,Secondary parkinsonism
+6353,6354,G210,1,Malignant neuroleptic syndrome,Malignant neuroleptic syndrome
+6354,6355,G211,0,Other drug-induced secondary parkinsonism,Other drug-induced secondary parkinsonism
+6355,6356,G2111,1,Neuroleptic induced parkinsonism,Neuroleptic induced parkinsonism
+6356,6357,G2119,1,Other drug induced secondary parkinsonism,Other drug induced secondary parkinsonism
+6357,6358,G212,1,Secondary parkinsonism due to other external agents,Secondary parkinsonism due to other external agents
+6358,6359,G213,1,Postencephalitic parkinsonism,Postencephalitic parkinsonism
+6359,6360,G214,1,Vascular parkinsonism,Vascular parkinsonism
+6360,6361,G218,1,Other secondary parkinsonism,Other secondary parkinsonism
+6361,6362,G219,1,"Secondary parkinsonism, unspecified","Secondary parkinsonism, unspecified"
+6362,6363,G23,0,Other degenerative diseases of basal ganglia,Other degenerative diseases of basal ganglia
+6363,6364,G230,1,Hallervorden-Spatz disease,Hallervorden-Spatz disease
+6364,6365,G231,1,Progressive supranuclear ophthalmoplegia,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski]
+6365,6366,G232,1,Striatonigral degeneration,Striatonigral degeneration
+6366,6367,G233,1,Hypomyelination with atrophy of basal ganglia and cerebellum,Hypomyelination with atrophy of the basal ganglia and cerebellum
+6367,6368,G238,1,Other specified degenerative diseases of basal ganglia,Other specified degenerative diseases of basal ganglia
+6368,6369,G239,1,"Degenerative disease of basal ganglia, unspecified","Degenerative disease of basal ganglia, unspecified"
+6369,6370,G24,0,Dystonia,Dystonia
+6370,6371,G240,0,Drug induced dystonia,Drug induced dystonia
+6371,6372,G2401,1,Drug induced subacute dyskinesia,Drug induced subacute dyskinesia
+6372,6373,G2402,1,Drug induced acute dystonia,Drug induced acute dystonia
+6373,6374,G2409,1,Other drug induced dystonia,Other drug induced dystonia
+6374,6375,G241,1,Genetic torsion dystonia,Genetic torsion dystonia
+6375,6376,G242,1,Idiopathic nonfamilial dystonia,Idiopathic nonfamilial dystonia
+6376,6377,G243,1,Spasmodic torticollis,Spasmodic torticollis
+6377,6378,G244,1,Idiopathic orofacial dystonia,Idiopathic orofacial dystonia
+6378,6379,G245,1,Blepharospasm,Blepharospasm
+6379,6380,G248,1,Other dystonia,Other dystonia
+6380,6381,G249,1,"Dystonia, unspecified","Dystonia, unspecified"
+6381,6382,G25,0,Other extrapyramidal and movement disorders,Other extrapyramidal and movement disorders
+6382,6383,G250,1,Essential tremor,Essential tremor
+6383,6384,G251,1,Drug-induced tremor,Drug-induced tremor
+6384,6385,G252,1,Other specified forms of tremor,Other specified forms of tremor
+6385,6386,G253,1,Myoclonus,Myoclonus
+6386,6387,G254,1,Drug-induced chorea,Drug-induced chorea
+6387,6388,G255,1,Other chorea,Other chorea
+6388,6389,G256,0,Drug induced tics and other tics of organic origin,Drug induced tics and other tics of organic origin
+6389,6390,G2561,1,Drug induced tics,Drug induced tics
+6390,6391,G2569,1,Other tics of organic origin,Other tics of organic origin
+6391,6392,G257,0,Other and unspecified drug induced movement disorders,Other and unspecified drug induced movement disorders
+6392,6393,G2570,1,"Drug induced movement disorder, unspecified","Drug induced movement disorder, unspecified"
+6393,6394,G2571,1,Drug induced akathisia,Drug induced akathisia
+6394,6395,G2579,1,Other drug induced movement disorders,Other drug induced movement disorders
+6395,6396,G258,0,Other specified extrapyramidal and movement disorders,Other specified extrapyramidal and movement disorders
+6396,6397,G2581,1,Restless legs syndrome,Restless legs syndrome
+6397,6398,G2582,1,Stiff-man syndrome,Stiff-man syndrome
+6398,6399,G2583,1,Benign shuddering attacks,Benign shuddering attacks
+6399,6400,G2589,1,Other specified extrapyramidal and movement disorders,Other specified extrapyramidal and movement disorders
+6400,6401,G259,1,"Extrapyramidal and movement disorder, unspecified","Extrapyramidal and movement disorder, unspecified"
+6401,6402,G26,1,Extrapyramidal and movement disord in diseases classd elswhr,Extrapyramidal and movement disorders in diseases classified elsewhere
+6402,6403,G30,0,Alzheimer's disease,Alzheimer's disease
+6403,6404,G300,1,Alzheimer's disease with early onset,Alzheimer's disease with early onset
+6404,6405,G301,1,Alzheimer's disease with late onset,Alzheimer's disease with late onset
+6405,6406,G308,1,Other Alzheimer's disease,Other Alzheimer's disease
+6406,6407,G309,1,"Alzheimer's disease, unspecified","Alzheimer's disease, unspecified"
+6407,6408,G31,0,"Oth degenerative diseases of nervous system, NEC","Other degenerative diseases of nervous system, not elsewhere classified"
+6408,6409,G310,0,Frontotemporal dementia,Frontotemporal dementia
+6409,6410,G3101,1,Pick's disease,Pick's disease
+6410,6411,G3109,1,Other frontotemporal neurocognitive disorder,Other frontotemporal neurocognitive disorder
+6411,6412,G311,1,"Senile degeneration of brain, not elsewhere classified","Senile degeneration of brain, not elsewhere classified"
+6412,6413,G312,1,Degeneration of nervous system due to alcohol,Degeneration of nervous system due to alcohol
+6413,6414,G318,0,Other specified degenerative diseases of nervous system,Other specified degenerative diseases of nervous system
+6414,6415,G3180,1,"Leukodystrophy, unspecified","Leukodystrophy, unspecified"
+6415,6416,G3181,1,Alpers disease,Alpers disease
+6416,6417,G3182,1,Leigh's disease,Leigh's disease
+6417,6418,G3183,1,Neurocognitive disorder with Lewy bodies,Neurocognitive disorder with Lewy bodies
+6418,6419,G3184,1,Mild cognitive impairment of uncertain or unknown etiology,Mild cognitive impairment of uncertain or unknown etiology
+6419,6420,G3185,1,Corticobasal degeneration,Corticobasal degeneration
+6420,6421,G3186,1,Alexander disease,Alexander disease
+6421,6422,G3187,1,Primary progressive apraxia of speech,Primary progressive apraxia of speech
+6422,6423,G3189,1,Other specified degenerative diseases of nervous system,Other specified degenerative diseases of nervous system
+6423,6424,G319,1,"Degenerative disease of nervous system, unspecified","Degenerative disease of nervous system, unspecified"
+6424,6425,G32,0,Oth degeneratv disord of nervous sys in dis classd elswhr,Other degenerative disorders of nervous system in diseases classified elsewhere
+6425,6426,G320,1,Subac comb degeneration of spinal cord in dis classd elswhr,Subacute combined degeneration of spinal cord in diseases classified elsewhere
+6426,6427,G328,0,Oth degeneratv disord of nervous sys in dis classd elswhr,Other specified degenerative disorders of nervous system in diseases classified elsewhere
+6427,6428,G3281,1,Cerebellar ataxia in diseases classified elsewhere,Cerebellar ataxia in diseases classified elsewhere
+6428,6429,G3289,1,Oth degeneratv disord of nervous sys in dis classd elswhr,Other specified degenerative disorders of nervous system in diseases classified elsewhere
+6429,6430,G35,0,Multiple sclerosis,Multiple sclerosis
+6430,6431,G35A,1,Relapsing-remitting multiple sclerosis,Relapsing-remitting multiple sclerosis
+6431,6432,G35B,0,Primary progressive multiple sclerosis,Primary progressive multiple sclerosis
+6432,6433,G35B0,1,"Primary progressive multiple sclerosis, unspecified","Primary progressive multiple sclerosis, unspecified"
+6433,6434,G35B1,1,Active primary progressive multiple sclerosis,Active primary progressive multiple sclerosis
+6434,6435,G35B2,1,Non-active primary progressive multiple sclerosis,Non-active primary progressive multiple sclerosis
+6435,6436,G35C,0,Secondary progressive multiple sclerosis,Secondary progressive multiple sclerosis
+6436,6437,G35C0,1,"Secondary progressive multiple sclerosis, unspecified","Secondary progressive multiple sclerosis, unspecified"
+6437,6438,G35C1,1,Active secondary progressive multiple sclerosis,Active secondary progressive multiple sclerosis
+6438,6439,G35C2,1,Non-active secondary progressive multiple sclerosis,Non-active secondary progressive multiple sclerosis
+6439,6440,G35D,1,"Multiple sclerosis, unspecified","Multiple sclerosis, unspecified"
+6440,6441,G36,0,Other acute disseminated demyelination,Other acute disseminated demyelination
+6441,6442,G360,1,Neuromyelitis optica [Devic],Neuromyelitis optica [Devic]
+6442,6443,G361,1,Acute and subacute hemorrhagic leukoencephalitis [Hurst],Acute and subacute hemorrhagic leukoencephalitis [Hurst]
+6443,6444,G368,1,Other specified acute disseminated demyelination,Other specified acute disseminated demyelination
+6444,6445,G369,1,"Acute disseminated demyelination, unspecified","Acute disseminated demyelination, unspecified"
+6445,6446,G37,0,Other demyelinating diseases of central nervous system,Other demyelinating diseases of central nervous system
+6446,6447,G370,1,Diffuse sclerosis of central nervous system,Diffuse sclerosis of central nervous system
+6447,6448,G371,1,Central demyelination of corpus callosum,Central demyelination of corpus callosum
+6448,6449,G372,1,Central pontine myelinolysis,Central pontine myelinolysis
+6449,6450,G373,1,Acute transverse myelitis in demyelinating disease of cnsl,Acute transverse myelitis in demyelinating disease of central nervous system
+6450,6451,G374,1,Subacute necrotizing myelitis of central nervous system,Subacute necrotizing myelitis of central nervous system
+6451,6452,G375,1,Concentric sclerosis [Balo] of central nervous system,Concentric sclerosis [Balo] of central nervous system
+6452,6453,G378,0,Oth demyelinating diseases of central nervous system,Other specified demyelinating diseases of central nervous system
+6453,6454,G3781,1,Myelin oligodendrocyte glycoprotein antibody disease,Myelin oligodendrocyte glycoprotein antibody disease
+6454,6455,G3789,1,Other specified demyelinating diseases of cnsl,Other specified demyelinating diseases of central nervous system
+6455,6456,G379,1,"Demyelinating disease of central nervous system, unspecified","Demyelinating disease of central nervous system, unspecified"
+6456,6457,G40,0,Epilepsy and recurrent seizures,Epilepsy and recurrent seizures
+6457,6458,G400,0,Local-rel (focal) idio epilepsy w seizures of loc onset,Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+6458,6459,G4000,0,"Local-rel (focal) idio epi w seiz of loc onset, not ntrct","Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable"
+6459,6460,G40001,1,"Local-rel idio epi w seiz of loc onst, not ntrct, w stat epi","Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, with status epilepticus"
+6460,6461,G40009,1,"Local-rel idio epi w seiz of loc onst,not ntrct,w/o stat epi","Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, without status epilepticus"
+6461,6462,G4001,0,"Local-rel (focal) idio epi w seizures of loc onset, ntrct","Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable"
+6462,6463,G40011,1,"Local-rel idio epi w seiz of loc onset, ntrct, w stat epi","Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, with status epilepticus"
+6463,6464,G40019,1,"Local-rel idio epi w seiz of loc onset, ntrct, w/o stat epi","Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, without status epilepticus"
+6464,6465,G401,0,Local-rel (focal) symptc epilepsy w simple partial seizures,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures
+6465,6466,G4010,0,"Local-rel symptc epi w simple partial seiz, not ntrct","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable"
+6466,6467,G40101,1,"Local-rel symptc epi w simp part seiz, not ntrct, w stat epi","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus"
+6467,6468,G40109,1,"Local-rel symptc epi w simp prt seiz,not ntrct, w/o stat epi","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus"
+6468,6469,G4011,0,"Local-rel (focal) symptc epi w simple partial seiz, ntrct","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable"
+6469,6470,G40111,1,"Local-rel symptc epi w simple part seiz, ntrct, w stat epi","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus"
+6470,6471,G40119,1,"Local-rel symptc epi w simple part seiz, ntrct, w/o stat epi","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus"
+6471,6472,G402,0,Local-rel (focal) symptc epilepsy w complex partial seizures,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures
+6472,6473,G4020,0,"Local-rel symptc epi w complex partial seiz, not ntrct","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable"
+6473,6474,G40201,1,"Local-rel symptc epi w cmplx prt seiz, not ntrct, w stat epi","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, with status epilepticus"
+6474,6475,G40209,1,"Local-rel symptc epi w cmplx prt seiz,not ntrct,w/o stat epi","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus"
+6475,6476,G4021,0,"Local-rel (focal) symptc epi w complex partial seiz, ntrct","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable"
+6476,6477,G40211,1,"Local-rel symptc epi w cmplx partial seiz, ntrct, w stat epi","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, with status epilepticus"
+6477,6478,G40219,1,"Local-rel symptc epi w cmplx part seiz, ntrct, w/o stat epi","Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus"
+6478,6479,G403,0,Generalized idiopathic epilepsy and epileptic syndromes,Generalized idiopathic epilepsy and epileptic syndromes
+6479,6480,G4030,0,"Generalized idiopathic epilepsy, not intractable","Generalized idiopathic epilepsy and epileptic syndromes, not intractable"
+6480,6481,G40301,1,"Gen idiopathic epilepsy, not intractable, w stat epi","Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus"
+6481,6482,G40309,1,"Gen idiopathic epilepsy, not intractable, w/o stat epi","Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+6482,6483,G4031,0,"Generalized idiopathic epilepsy, intractable","Generalized idiopathic epilepsy and epileptic syndromes, intractable"
+6483,6484,G40311,1,"Generalized idiopathic epilepsy, intractable, w stat epi","Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus"
+6484,6485,G40319,1,"Generalized idiopathic epilepsy, intractable, w/o stat epi","Generalized idiopathic epilepsy and epileptic syndromes, intractable, without status epilepticus"
+6485,6486,G40A,0,Absence epileptic syndrome,Absence epileptic syndrome
+6486,6487,G40A0,0,"Absence epileptic syndrome, not intractable","Absence epileptic syndrome, not intractable"
+6487,6488,G40A01,1,"Absence epileptic syndrome, not intractable, w stat epi","Absence epileptic syndrome, not intractable, with status epilepticus"
+6488,6489,G40A09,1,"Absence epileptic syndrome, not intractable, w/o stat epi","Absence epileptic syndrome, not intractable, without status epilepticus"
+6489,6490,G40A1,0,"Absence epileptic syndrome, intractable","Absence epileptic syndrome, intractable"
+6490,6491,G40A11,1,"Absence epileptic syndrome, intractable, w stat epi","Absence epileptic syndrome, intractable, with status epilepticus"
+6491,6492,G40A19,1,"Absence epileptic syndrome, intractable, w/o stat epi","Absence epileptic syndrome, intractable, without status epilepticus"
+6492,6493,G40B,0,Juvenile myoclonic epilepsy [impulsive petit mal],Juvenile myoclonic epilepsy [impulsive petit mal]
+6493,6494,G40B0,0,"Juvenile myoclonic epilepsy, not intractable","Juvenile myoclonic epilepsy, not intractable"
+6494,6495,G40B01,1,"Juvenile myoclonic epilepsy, not intractable, w stat epi","Juvenile myoclonic epilepsy, not intractable, with status epilepticus"
+6495,6496,G40B09,1,"Juvenile myoclonic epilepsy, not intractable, w/o stat epi","Juvenile myoclonic epilepsy, not intractable, without status epilepticus"
+6496,6497,G40B1,0,"Juvenile myoclonic epilepsy, intractable","Juvenile myoclonic epilepsy, intractable"
+6497,6498,G40B11,1,"Juvenile myoclonic epilepsy, intractable, w stat epi","Juvenile myoclonic epilepsy, intractable, with status epilepticus"
+6498,6499,G40B19,1,"Juvenile myoclonic epilepsy, intractable, w/o stat epi","Juvenile myoclonic epilepsy, intractable, without status epilepticus"
+6499,6500,G40C,0,Lafora progressive myoclonus epilepsy,Lafora progressive myoclonus epilepsy
+6500,6501,G40C0,0,"Lafora progressive myoclonus epilepsy, not intractable","Lafora progressive myoclonus epilepsy, not intractable"
+6501,6502,G40C01,1,"Lafora progr myoclonus epilepsy, not ntrct, with stat epi","Lafora progressive myoclonus epilepsy, not intractable, with status epilepticus"
+6502,6503,G40C09,1,"Lafora progr myoclonus epilepsy, not ntrct, without stat epi","Lafora progressive myoclonus epilepsy, not intractable, without status epilepticus"
+6503,6504,G40C1,0,"Lafora progressive myoclonus epilepsy, intractable","Lafora progressive myoclonus epilepsy, intractable"
+6504,6505,G40C11,1,"Lafora progressive myoclonus epilepsy, ntrct, with stat epi","Lafora progressive myoclonus epilepsy, intractable, with status epilepticus"
+6505,6506,G40C19,1,"Lafora progr myoclonus epilepsy, ntrct, without stat epi","Lafora progressive myoclonus epilepsy, intractable, without status epilepticus"
+6506,6507,G404,0,Other generalized epilepsy and epileptic syndromes,Other generalized epilepsy and epileptic syndromes
+6507,6508,G4040,0,"Oth generalized epilepsy, not intractable","Other generalized epilepsy and epileptic syndromes, not intractable"
+6508,6509,G40401,1,"Oth generalized epilepsy, not intractable, w stat epi","Other generalized epilepsy and epileptic syndromes, not intractable, with status epilepticus"
+6509,6510,G40409,1,"Oth generalized epilepsy, not intractable, w/o stat epi","Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+6510,6511,G4041,0,"Oth generalized epilepsy, intractable","Other generalized epilepsy and epileptic syndromes, intractable"
+6511,6512,G40411,1,"Oth generalized epilepsy, intractable, w status epilepticus","Other generalized epilepsy and epileptic syndromes, intractable, with status epilepticus"
+6512,6513,G40419,1,"Oth generalized epilepsy, intractable, w/o stat epi","Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus"
+6513,6514,G4042,1,Cyclin-Dependent Kinase-Like 5 Deficiency Disorder,Cyclin-Dependent Kinase-Like 5 Deficiency Disorder
+6514,6515,G405,0,Epileptic seizures related to external causes,Epileptic seizures related to external causes
+6515,6516,G4050,0,"Epileptic seizures related to external causes, not ntrct","Epileptic seizures related to external causes, not intractable"
+6516,6517,G40501,1,"Epileptic seiz rel to extrn causes, not ntrct, w stat epi","Epileptic seizures related to external causes, not intractable, with status epilepticus"
+6517,6518,G40509,1,"Epileptic seiz rel to extrn causes, not ntrct, w/o stat epi","Epileptic seizures related to external causes, not intractable, without status epilepticus"
+6518,6519,G408,0,Other epilepsy and recurrent seizures,Other epilepsy and recurrent seizures
+6519,6520,G4080,0,Other epilepsy,Other epilepsy
+6520,6521,G40801,1,"Other epilepsy, not intractable, with status epilepticus","Other epilepsy, not intractable, with status epilepticus"
+6521,6522,G40802,1,"Other epilepsy, not intractable, without status epilepticus","Other epilepsy, not intractable, without status epilepticus"
+6522,6523,G40803,1,"Other epilepsy, intractable, with status epilepticus","Other epilepsy, intractable, with status epilepticus"
+6523,6524,G40804,1,"Other epilepsy, intractable, without status epilepticus","Other epilepsy, intractable, without status epilepticus"
+6524,6525,G4081,0,Lennox-Gastaut syndrome,Lennox-Gastaut syndrome
+6525,6526,G40811,1,"Lennox-Gastaut syndrome, not intractable, w stat epi","Lennox-Gastaut syndrome, not intractable, with status epilepticus"
+6526,6527,G40812,1,"Lennox-Gastaut syndrome, not intractable, w/o stat epi","Lennox-Gastaut syndrome, not intractable, without status epilepticus"
+6527,6528,G40813,1,"Lennox-Gastaut syndrome, intractable, w status epilepticus","Lennox-Gastaut syndrome, intractable, with status epilepticus"
+6528,6529,G40814,1,"Lennox-Gastaut syndrome, intractable, w/o status epilepticus","Lennox-Gastaut syndrome, intractable, without status epilepticus"
+6529,6530,G4082,0,Epileptic spasms,Epileptic spasms
+6530,6531,G40821,1,"Epileptic spasms, not intractable, with status epilepticus","Epileptic spasms, not intractable, with status epilepticus"
+6531,6532,G40822,1,"Epileptic spasms, not intractable, w/o status epilepticus","Epileptic spasms, not intractable, without status epilepticus"
+6532,6533,G40823,1,"Epileptic spasms, intractable, with status epilepticus","Epileptic spasms, intractable, with status epilepticus"
+6533,6534,G40824,1,"Epileptic spasms, intractable, without status epilepticus","Epileptic spasms, intractable, without status epilepticus"
+6534,6535,G4083,0,Dravet syndrome,Dravet syndrome
+6535,6536,G40833,1,"Dravet syndrome, intractable, with status epilepticus","Dravet syndrome, intractable, with status epilepticus"
+6536,6537,G40834,1,"Dravet syndrome, intractable, without status epilepticus","Dravet syndrome, intractable, without status epilepticus"
+6537,6538,G4084,0,KCNQ2-related epilepsy,KCNQ2-related epilepsy
+6538,6539,G40841,1,"KCNQ2-related epilepsy, not intractable, with stat epi","KCNQ2-related epilepsy, not intractable, with status epilepticus"
+6539,6540,G40842,1,"KCNQ2-related epilepsy, not intractable, without stat epi","KCNQ2-related epilepsy, not intractable, without status epilepticus"
+6540,6541,G40843,1,"KCNQ2-related epilepsy, intractable, with status epilepticus","KCNQ2-related epilepsy, intractable, with status epilepticus"
+6541,6542,G40844,1,"KCNQ2-related epilepsy, intractable, without stat epi","KCNQ2-related epilepsy, intractable, without status epilepticus"
+6542,6543,G4089,1,Other seizures,Other seizures
+6543,6544,G409,0,"Epilepsy, unspecified","Epilepsy, unspecified"
+6544,6545,G4090,0,"Epilepsy, unspecified, not intractable","Epilepsy, unspecified, not intractable"
+6545,6546,G40901,1,"Epilepsy, unsp, not intractable, with status epilepticus","Epilepsy, unspecified, not intractable, with status epilepticus"
+6546,6547,G40909,1,"Epilepsy, unsp, not intractable, without status epilepticus","Epilepsy, unspecified, not intractable, without status epilepticus"
+6547,6548,G4091,0,"Epilepsy, unspecified, intractable","Epilepsy, unspecified, intractable"
+6548,6549,G40911,1,"Epilepsy, unspecified, intractable, with status epilepticus","Epilepsy, unspecified, intractable, with status epilepticus"
+6549,6550,G40919,1,"Epilepsy, unsp, intractable, without status epilepticus","Epilepsy, unspecified, intractable, without status epilepticus"
+6550,6551,G43,0,Migraine,Migraine
+6551,6552,G430,0,Migraine without aura,Migraine without aura
+6552,6553,G4300,0,"Migraine without aura, not intractable","Migraine without aura, not intractable"
+6553,6554,G43001,1,"Migraine w/o aura, not intractable, with status migrainosus","Migraine without aura, not intractable, with status migrainosus"
+6554,6555,G43009,1,"Migraine w/o aura, not intractable, w/o status migrainosus","Migraine without aura, not intractable, without status migrainosus"
+6555,6556,G4301,0,"Migraine without aura, intractable","Migraine without aura, intractable"
+6556,6557,G43011,1,"Migraine without aura, intractable, with status migrainosus","Migraine without aura, intractable, with status migrainosus"
+6557,6558,G43019,1,"Migraine w/o aura, intractable, without status migrainosus","Migraine without aura, intractable, without status migrainosus"
+6558,6559,G431,0,Migraine with aura,Migraine with aura
+6559,6560,G4310,0,"Migraine with aura, not intractable","Migraine with aura, not intractable"
+6560,6561,G43101,1,"Migraine with aura, not intractable, with status migrainosus","Migraine with aura, not intractable, with status migrainosus"
+6561,6562,G43109,1,"Migraine with aura, not intractable, w/o status migrainosus","Migraine with aura, not intractable, without status migrainosus"
+6562,6563,G4311,0,"Migraine with aura, intractable","Migraine with aura, intractable"
+6563,6564,G43111,1,"Migraine with aura, intractable, with status migrainosus","Migraine with aura, intractable, with status migrainosus"
+6564,6565,G43119,1,"Migraine with aura, intractable, without status migrainosus","Migraine with aura, intractable, without status migrainosus"
+6565,6566,G434,0,Hemiplegic migraine,Hemiplegic migraine
+6566,6567,G4340,0,"Hemiplegic migraine, not intractable","Hemiplegic migraine, not intractable"
+6567,6568,G43401,1,"Hemiplegic migraine, not intractable, w status migrainosus","Hemiplegic migraine, not intractable, with status migrainosus"
+6568,6569,G43409,1,"Hemiplegic migraine, not intractable, w/o status migrainosus","Hemiplegic migraine, not intractable, without status migrainosus"
+6569,6570,G4341,0,"Hemiplegic migraine, intractable","Hemiplegic migraine, intractable"
+6570,6571,G43411,1,"Hemiplegic migraine, intractable, with status migrainosus","Hemiplegic migraine, intractable, with status migrainosus"
+6571,6572,G43419,1,"Hemiplegic migraine, intractable, without status migrainosus","Hemiplegic migraine, intractable, without status migrainosus"
+6572,6573,G435,0,Persistent migraine aura without cerebral infarction,Persistent migraine aura without cerebral infarction
+6573,6574,G4350,0,"Persistent migraine aura w/o cerebral infarction, not ntrct","Persistent migraine aura without cerebral infarction, not intractable"
+6574,6575,G43501,1,"Perst migraine aura w/o cereb infrc, not ntrct, w stat migr","Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus"
+6575,6576,G43509,1,"Perst migrn aura w/o cereb infrc, not ntrct, w/o stat migr","Persistent migraine aura without cerebral infarction, not intractable, without status migrainosus"
+6576,6577,G4351,0,"Persistent migraine aura w/o cerebral infarction, ntrct","Persistent migraine aura without cerebral infarction, intractable"
+6577,6578,G43511,1,"Perst migraine aura w/o cerebral infrc, ntrct, w stat migr","Persistent migraine aura without cerebral infarction, intractable, with status migrainosus"
+6578,6579,G43519,1,"Perst migraine aura w/o cerebral infrc, ntrct, w/o stat migr","Persistent migraine aura without cerebral infarction, intractable, without status migrainosus"
+6579,6580,G436,0,Persistent migraine aura with cerebral infarction,Persistent migraine aura with cerebral infarction
+6580,6581,G4360,0,"Persistent migraine aura w cerebral infarction, not ntrct","Persistent migraine aura with cerebral infarction, not intractable"
+6581,6582,G43601,1,"Perst migraine aura w cerebral infrc, not ntrct, w stat migr","Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus"
+6582,6583,G43609,1,"Perst migraine aura w cereb infrc, not ntrct, w/o stat migr","Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus"
+6583,6584,G4361,0,"Persistent migraine aura w cerebral infarction, intractable","Persistent migraine aura with cerebral infarction, intractable"
+6584,6585,G43611,1,"Perst migraine aura w cerebral infrc, ntrct, w stat migr","Persistent migraine aura with cerebral infarction, intractable, with status migrainosus"
+6585,6586,G43619,1,"Perst migraine aura w cerebral infrc, ntrct, w/o stat migr","Persistent migraine aura with cerebral infarction, intractable, without status migrainosus"
+6586,6587,G437,0,Chronic migraine without aura,Chronic migraine without aura
+6587,6588,G4370,0,"Chronic migraine without aura, not intractable","Chronic migraine without aura, not intractable"
+6588,6589,G43701,1,"Chronic migraine w/o aura, not intractable, w stat migr","Chronic migraine without aura, not intractable, with status migrainosus"
+6589,6590,G43709,1,"Chronic migraine w/o aura, not intractable, w/o stat migr","Chronic migraine without aura, not intractable, without status migrainosus"
+6590,6591,G4371,0,"Chronic migraine without aura, intractable","Chronic migraine without aura, intractable"
+6591,6592,G43711,1,"Chronic migraine w/o aura, intractable, w status migrainosus","Chronic migraine without aura, intractable, with status migrainosus"
+6592,6593,G43719,1,"Chronic migraine w/o aura, intractable, w/o stat migr","Chronic migraine without aura, intractable, without status migrainosus"
+6593,6594,G43A,0,Cyclical vomiting,Cyclical vomiting
+6594,6595,G43A0,1,"Cyclical vomiting, in migraine, not intractable","Cyclical vomiting, in migraine, not intractable"
+6595,6596,G43A1,1,"Cyclical vomiting, in migraine, intractable","Cyclical vomiting, in migraine, intractable"
+6596,6597,G43B,0,Ophthalmoplegic migraine,Ophthalmoplegic migraine
+6597,6598,G43B0,1,"Ophthalmoplegic migraine, not intractable","Ophthalmoplegic migraine, not intractable"
+6598,6599,G43B1,1,"Ophthalmoplegic migraine, intractable","Ophthalmoplegic migraine, intractable"
+6599,6600,G43C,0,Periodic headache syndromes in child or adult,Periodic headache syndromes in child or adult
+6600,6601,G43C0,1,"Periodic headache syndromes in chld/adlt, not intractable","Periodic headache syndromes in child or adult, not intractable"
+6601,6602,G43C1,1,"Periodic headache syndromes in child or adult, intractable","Periodic headache syndromes in child or adult, intractable"
+6602,6603,G43D,0,Abdominal migraine,Abdominal migraine
+6603,6604,G43D0,1,"Abdominal migraine, not intractable","Abdominal migraine, not intractable"
+6604,6605,G43D1,1,"Abdominal migraine, intractable","Abdominal migraine, intractable"
+6605,6606,G438,0,Other migraine,Other migraine
+6606,6607,G4380,0,"Other migraine, not intractable","Other migraine, not intractable"
+6607,6608,G43801,1,"Other migraine, not intractable, with status migrainosus","Other migraine, not intractable, with status migrainosus"
+6608,6609,G43809,1,"Other migraine, not intractable, without status migrainosus","Other migraine, not intractable, without status migrainosus"
+6609,6610,G4381,0,"Other migraine, intractable","Other migraine, intractable"
+6610,6611,G43811,1,"Other migraine, intractable, with status migrainosus","Other migraine, intractable, with status migrainosus"
+6611,6612,G43819,1,"Other migraine, intractable, without status migrainosus","Other migraine, intractable, without status migrainosus"
+6612,6613,G4382,0,"Menstrual migraine, not intractable","Menstrual migraine, not intractable"
+6613,6614,G43821,1,"Menstrual migraine, not intractable, with status migrainosus","Menstrual migraine, not intractable, with status migrainosus"
+6614,6615,G43829,1,"Menstrual migraine, not intractable, w/o status migrainosus","Menstrual migraine, not intractable, without status migrainosus"
+6615,6616,G4383,0,"Menstrual migraine, intractable","Menstrual migraine, intractable"
+6616,6617,G43831,1,"Menstrual migraine, intractable, with status migrainosus","Menstrual migraine, intractable, with status migrainosus"
+6617,6618,G43839,1,"Menstrual migraine, intractable, without status migrainosus","Menstrual migraine, intractable, without status migrainosus"
+6618,6619,G439,0,"Migraine, unspecified","Migraine, unspecified"
+6619,6620,G4390,0,"Migraine, unspecified, not intractable","Migraine, unspecified, not intractable"
+6620,6621,G43901,1,"Migraine, unsp, not intractable, with status migrainosus","Migraine, unspecified, not intractable, with status migrainosus"
+6621,6622,G43909,1,"Migraine, unsp, not intractable, without status migrainosus","Migraine, unspecified, not intractable, without status migrainosus"
+6622,6623,G4391,0,"Migraine, unspecified, intractable","Migraine, unspecified, intractable"
+6623,6624,G43911,1,"Migraine, unspecified, intractable, with status migrainosus","Migraine, unspecified, intractable, with status migrainosus"
+6624,6625,G43919,1,"Migraine, unsp, intractable, without status migrainosus","Migraine, unspecified, intractable, without status migrainosus"
+6625,6626,G43E,0,Chronic migraine with aura,Chronic migraine with aura
+6626,6627,G43E0,0,"Chronic migraine with aura, not intractable","Chronic migraine with aura, not intractable"
+6627,6628,G43E01,1,"Chronic migraine with aura, not intractable, with stat migr","Chronic migraine with aura, not intractable, with status migrainosus"
+6628,6629,G43E09,1,"Chronic migraine with aura, not ntrct, without stat migr","Chronic migraine with aura, not intractable, without status migrainosus"
+6629,6630,G43E1,0,"Chronic migraine with aura, intractable","Chronic migraine with aura, intractable"
+6630,6631,G43E11,1,"Chronic migraine with aura, intractable, with stat migr","Chronic migraine with aura, intractable, with status migrainosus"
+6631,6632,G43E19,1,"Chronic migraine with aura, intractable, without stat migr","Chronic migraine with aura, intractable, without status migrainosus"
+6632,6633,G44,0,Other headache syndromes,Other headache syndromes
+6633,6634,G440,0,Cluster headaches and oth trigeminal autonm cephalgias (TAC),Cluster headaches and other trigeminal autonomic cephalgias (TAC)
+6634,6635,G4400,0,"Cluster headache syndrome, unspecified","Cluster headache syndrome, unspecified"
+6635,6636,G44001,1,"Cluster headache syndrome, unspecified, intractable","Cluster headache syndrome, unspecified, intractable"
+6636,6637,G44009,1,"Cluster headache syndrome, unspecified, not intractable","Cluster headache syndrome, unspecified, not intractable"
+6637,6638,G4401,0,Episodic cluster headache,Episodic cluster headache
+6638,6639,G44011,1,"Episodic cluster headache, intractable","Episodic cluster headache, intractable"
+6639,6640,G44019,1,"Episodic cluster headache, not intractable","Episodic cluster headache, not intractable"
+6640,6641,G4402,0,Chronic cluster headache,Chronic cluster headache
+6641,6642,G44021,1,"Chronic cluster headache, intractable","Chronic cluster headache, intractable"
+6642,6643,G44029,1,"Chronic cluster headache, not intractable","Chronic cluster headache, not intractable"
+6643,6644,G4403,0,Episodic paroxysmal hemicrania,Episodic paroxysmal hemicrania
+6644,6645,G44031,1,"Episodic paroxysmal hemicrania, intractable","Episodic paroxysmal hemicrania, intractable"
+6645,6646,G44039,1,"Episodic paroxysmal hemicrania, not intractable","Episodic paroxysmal hemicrania, not intractable"
+6646,6647,G4404,0,Chronic paroxysmal hemicrania,Chronic paroxysmal hemicrania
+6647,6648,G44041,1,"Chronic paroxysmal hemicrania, intractable","Chronic paroxysmal hemicrania, intractable"
+6648,6649,G44049,1,"Chronic paroxysmal hemicrania, not intractable","Chronic paroxysmal hemicrania, not intractable"
+6649,6650,G4405,0,Shrt lst unil nerlgif headache w cnjnct inject/tear (SUNCT),Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT)
+6650,6651,G44051,1,"Shrt lst unil nerlgif hdache w cnjnct inject/tear, ntrct","Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), intractable"
+6651,6652,G44059,1,"Shrt lst unil nerlgif hdache w cnjnct inject/tear, not ntrct","Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), not intractable"
+6652,6653,G4409,0,Other trigeminal autonomic cephalgias (TAC),Other trigeminal autonomic cephalgias (TAC)
+6653,6654,G44091,1,"Other trigeminal autonomic cephalgias (TAC), intractable","Other trigeminal autonomic cephalgias (TAC), intractable"
+6654,6655,G44099,1,"Other trigeminal autonomic cephalgias (TAC), not intractable","Other trigeminal autonomic cephalgias (TAC), not intractable"
+6655,6656,G441,1,"Vascular headache, not elsewhere classified","Vascular headache, not elsewhere classified"
+6656,6657,G442,0,Tension-type headache,Tension-type headache
+6657,6658,G4420,0,"Tension-type headache, unspecified","Tension-type headache, unspecified"
+6658,6659,G44201,1,"Tension-type headache, unspecified, intractable","Tension-type headache, unspecified, intractable"
+6659,6660,G44209,1,"Tension-type headache, unspecified, not intractable","Tension-type headache, unspecified, not intractable"
+6660,6661,G4421,0,Episodic tension-type headache,Episodic tension-type headache
+6661,6662,G44211,1,"Episodic tension-type headache, intractable","Episodic tension-type headache, intractable"
+6662,6663,G44219,1,"Episodic tension-type headache, not intractable","Episodic tension-type headache, not intractable"
+6663,6664,G4422,0,Chronic tension-type headache,Chronic tension-type headache
+6664,6665,G44221,1,"Chronic tension-type headache, intractable","Chronic tension-type headache, intractable"
+6665,6666,G44229,1,"Chronic tension-type headache, not intractable","Chronic tension-type headache, not intractable"
+6666,6667,G443,0,Post-traumatic headache,Post-traumatic headache
+6667,6668,G4430,0,"Post-traumatic headache, unspecified","Post-traumatic headache, unspecified"
+6668,6669,G44301,1,"Post-traumatic headache, unspecified, intractable","Post-traumatic headache, unspecified, intractable"
+6669,6670,G44309,1,"Post-traumatic headache, unspecified, not intractable","Post-traumatic headache, unspecified, not intractable"
+6670,6671,G4431,0,Acute post-traumatic headache,Acute post-traumatic headache
+6671,6672,G44311,1,"Acute post-traumatic headache, intractable","Acute post-traumatic headache, intractable"
+6672,6673,G44319,1,"Acute post-traumatic headache, not intractable","Acute post-traumatic headache, not intractable"
+6673,6674,G4432,0,Chronic post-traumatic headache,Chronic post-traumatic headache
+6674,6675,G44321,1,"Chronic post-traumatic headache, intractable","Chronic post-traumatic headache, intractable"
+6675,6676,G44329,1,"Chronic post-traumatic headache, not intractable","Chronic post-traumatic headache, not intractable"
+6676,6677,G444,0,"Drug-induced headache, not elsewhere classified","Drug-induced headache, not elsewhere classified"
+6677,6678,G4440,1,"Drug-induced headache, NEC, not intractable","Drug-induced headache, not elsewhere classified, not intractable"
+6678,6679,G4441,1,"Drug-induced headache, not elsewhere classified, intractable","Drug-induced headache, not elsewhere classified, intractable"
+6679,6680,G445,0,Complicated headache syndromes,Complicated headache syndromes
+6680,6681,G4451,1,Hemicrania continua,Hemicrania continua
+6681,6682,G4452,1,New daily persistent headache (NDPH),New daily persistent headache (NDPH)
+6682,6683,G4453,1,Primary thunderclap headache,Primary thunderclap headache
+6683,6684,G4459,1,Other complicated headache syndrome,Other complicated headache syndrome
+6684,6685,G448,0,Other specified headache syndromes,Other specified headache syndromes
+6685,6686,G4481,1,Hypnic headache,Hypnic headache
+6686,6687,G4482,1,Headache associated with sexual activity,Headache associated with sexual activity
+6687,6688,G4483,1,Primary cough headache,Primary cough headache
+6688,6689,G4484,1,Primary exertional headache,Primary exertional headache
+6689,6690,G4485,1,Primary stabbing headache,Primary stabbing headache
+6690,6691,G4486,1,Cervicogenic headache,Cervicogenic headache
+6691,6692,G4489,1,Other headache syndrome,Other headache syndrome
+6692,6693,G45,0,Transient cerebral ischemic attacks and related syndromes,Transient cerebral ischemic attacks and related syndromes
+6693,6694,G450,1,Vertebro-basilar artery syndrome,Vertebro-basilar artery syndrome
+6694,6695,G451,1,Carotid artery syndrome (hemispheric),Carotid artery syndrome (hemispheric)
+6695,6696,G452,1,Multiple and bilateral precerebral artery syndromes,Multiple and bilateral precerebral artery syndromes
+6696,6697,G453,1,Amaurosis fugax,Amaurosis fugax
+6697,6698,G454,1,Transient global amnesia,Transient global amnesia
+6698,6699,G458,1,Oth transient cerebral ischemic attacks and related synd,Other transient cerebral ischemic attacks and related syndromes
+6699,6700,G459,1,"Transient cerebral ischemic attack, unspecified","Transient cerebral ischemic attack, unspecified"
+6700,6701,G46,0,Vascular syndromes of brain in cerebrovascular diseases,Vascular syndromes of brain in cerebrovascular diseases
+6701,6702,G460,1,Middle cerebral artery syndrome,Middle cerebral artery syndrome
+6702,6703,G461,1,Anterior cerebral artery syndrome,Anterior cerebral artery syndrome
+6703,6704,G462,1,Posterior cerebral artery syndrome,Posterior cerebral artery syndrome
+6704,6705,G463,1,Brain stem stroke syndrome,Brain stem stroke syndrome
+6705,6706,G464,1,Cerebellar stroke syndrome,Cerebellar stroke syndrome
+6706,6707,G465,1,Pure motor lacunar syndrome,Pure motor lacunar syndrome
+6707,6708,G466,1,Pure sensory lacunar syndrome,Pure sensory lacunar syndrome
+6708,6709,G467,1,Other lacunar syndromes,Other lacunar syndromes
+6709,6710,G468,1,Oth vascular syndromes of brain in cerebrovascular diseases,Other vascular syndromes of brain in cerebrovascular diseases
+6710,6711,G47,0,Sleep disorders,Sleep disorders
+6711,6712,G470,0,Insomnia,Insomnia
+6712,6713,G4700,1,"Insomnia, unspecified","Insomnia, unspecified"
+6713,6714,G4701,1,Insomnia due to medical condition,Insomnia due to medical condition
+6714,6715,G4709,1,Other insomnia,Other insomnia
+6715,6716,G471,0,Hypersomnia,Hypersomnia
+6716,6717,G4710,1,"Hypersomnia, unspecified","Hypersomnia, unspecified"
+6717,6718,G4711,1,Idiopathic hypersomnia with long sleep time,Idiopathic hypersomnia with long sleep time
+6718,6719,G4712,1,Idiopathic hypersomnia without long sleep time,Idiopathic hypersomnia without long sleep time
+6719,6720,G4713,1,Recurrent hypersomnia,Recurrent hypersomnia
+6720,6721,G4714,1,Hypersomnia due to medical condition,Hypersomnia due to medical condition
+6721,6722,G4719,1,Other hypersomnia,Other hypersomnia
+6722,6723,G472,0,Circadian rhythm sleep disorders,Circadian rhythm sleep disorders
+6723,6724,G4720,1,"Circadian rhythm sleep disorder, unspecified type","Circadian rhythm sleep disorder, unspecified type"
+6724,6725,G4721,1,"Circadian rhythm sleep disorder, delayed sleep phase type","Circadian rhythm sleep disorder, delayed sleep phase type"
+6725,6726,G4722,1,"Circadian rhythm sleep disorder, advanced sleep phase type","Circadian rhythm sleep disorder, advanced sleep phase type"
+6726,6727,G4723,1,"Circadian rhythm sleep disorder, irregular sleep wake type","Circadian rhythm sleep disorder, irregular sleep wake type"
+6727,6728,G4724,1,"Circadian rhythm sleep disorder, free running type","Circadian rhythm sleep disorder, free running type"
+6728,6729,G4725,1,"Circadian rhythm sleep disorder, jet lag type","Circadian rhythm sleep disorder, jet lag type"
+6729,6730,G4726,1,"Circadian rhythm sleep disorder, shift work type","Circadian rhythm sleep disorder, shift work type"
+6730,6731,G4727,1,Circadian rhythm sleep disorder in conditions classd elswhr,Circadian rhythm sleep disorder in conditions classified elsewhere
+6731,6732,G4729,1,Other circadian rhythm sleep disorder,Other circadian rhythm sleep disorder
+6732,6733,G473,0,Sleep apnea,Sleep apnea
+6733,6734,G4730,1,"Sleep apnea, unspecified","Sleep apnea, unspecified"
+6734,6735,G4731,1,Primary central sleep apnea,Primary central sleep apnea
+6735,6736,G4732,1,High altitude periodic breathing,High altitude periodic breathing
+6736,6737,G4733,1,Obstructive sleep apnea (adult) (pediatric),Obstructive sleep apnea (adult) (pediatric)
+6737,6738,G4734,1,Idio sleep related nonobstructive alveolar hypoventilation,Idiopathic sleep related nonobstructive alveolar hypoventilation
+6738,6739,G4735,1,Congenital central alveolar hypoventilation syndrome,Congenital central alveolar hypoventilation syndrome
+6739,6740,G4736,1,Sleep related hypoventilation in conditions classd elswhr,Sleep related hypoventilation in conditions classified elsewhere
+6740,6741,G4737,1,Central sleep apnea in conditions classified elsewhere,Central sleep apnea in conditions classified elsewhere
+6741,6742,G4739,1,Other sleep apnea,Other sleep apnea
+6742,6743,G474,0,Narcolepsy and cataplexy,Narcolepsy and cataplexy
+6743,6744,G4741,0,Narcolepsy,Narcolepsy
+6744,6745,G47411,1,Narcolepsy with cataplexy,Narcolepsy with cataplexy
+6745,6746,G47419,1,Narcolepsy without cataplexy,Narcolepsy without cataplexy
+6746,6747,G4742,0,Narcolepsy in conditions classified elsewhere,Narcolepsy in conditions classified elsewhere
+6747,6748,G47421,1,Narcolepsy in conditions classified elsewhere with cataplexy,Narcolepsy in conditions classified elsewhere with cataplexy
+6748,6749,G47429,1,Narcolepsy in conditions classified elsewhere w/o cataplexy,Narcolepsy in conditions classified elsewhere without cataplexy
+6749,6750,G475,0,Parasomnia,Parasomnia
+6750,6751,G4750,1,"Parasomnia, unspecified","Parasomnia, unspecified"
+6751,6752,G4751,1,Confusional arousals,Confusional arousals
+6752,6753,G4752,1,REM sleep behavior disorder,REM sleep behavior disorder
+6753,6754,G4753,1,Recurrent isolated sleep paralysis,Recurrent isolated sleep paralysis
+6754,6755,G4754,1,Parasomnia in conditions classified elsewhere,Parasomnia in conditions classified elsewhere
+6755,6756,G4759,1,Other parasomnia,Other parasomnia
+6756,6757,G476,0,Sleep related movement disorders,Sleep related movement disorders
+6757,6758,G4761,1,Periodic limb movement disorder,Periodic limb movement disorder
+6758,6759,G4762,1,Sleep related leg cramps,Sleep related leg cramps
+6759,6760,G4763,1,Sleep related bruxism,Sleep related bruxism
+6760,6761,G4769,1,Other sleep related movement disorders,Other sleep related movement disorders
+6761,6762,G478,1,Other sleep disorders,Other sleep disorders
+6762,6763,G479,1,"Sleep disorder, unspecified","Sleep disorder, unspecified"
+6763,6764,G50,0,Disorders of trigeminal nerve,Disorders of trigeminal nerve
+6764,6765,G500,1,Trigeminal neuralgia,Trigeminal neuralgia
+6765,6766,G501,1,Atypical facial pain,Atypical facial pain
+6766,6767,G508,1,Other disorders of trigeminal nerve,Other disorders of trigeminal nerve
+6767,6768,G509,1,"Disorder of trigeminal nerve, unspecified","Disorder of trigeminal nerve, unspecified"
+6768,6769,G51,0,Facial nerve disorders,Facial nerve disorders
+6769,6770,G510,1,Bell's palsy,Bell's palsy
+6770,6771,G511,1,Geniculate ganglionitis,Geniculate ganglionitis
+6771,6772,G512,1,Melkersson's syndrome,Melkersson's syndrome
+6772,6773,G513,0,Clonic hemifacial spasm,Clonic hemifacial spasm
+6773,6774,G5131,1,"Clonic hemifacial spasm, right","Clonic hemifacial spasm, right"
+6774,6775,G5132,1,"Clonic hemifacial spasm, left","Clonic hemifacial spasm, left"
+6775,6776,G5133,1,"Clonic hemifacial spasm, bilateral","Clonic hemifacial spasm, bilateral"
+6776,6777,G5139,1,"Clonic hemifacial spasm, unspecified","Clonic hemifacial spasm, unspecified"
+6777,6778,G514,1,Facial myokymia,Facial myokymia
+6778,6779,G518,1,Other disorders of facial nerve,Other disorders of facial nerve
+6779,6780,G519,1,"Disorder of facial nerve, unspecified","Disorder of facial nerve, unspecified"
+6780,6781,G52,0,Disorders of other cranial nerves,Disorders of other cranial nerves
+6781,6782,G520,1,Disorders of olfactory nerve,Disorders of olfactory nerve
+6782,6783,G521,1,Disorders of glossopharyngeal nerve,Disorders of glossopharyngeal nerve
+6783,6784,G522,1,Disorders of vagus nerve,Disorders of vagus nerve
+6784,6785,G523,1,Disorders of hypoglossal nerve,Disorders of hypoglossal nerve
+6785,6786,G527,1,Disorders of multiple cranial nerves,Disorders of multiple cranial nerves
+6786,6787,G528,1,Disorders of other specified cranial nerves,Disorders of other specified cranial nerves
+6787,6788,G529,1,"Cranial nerve disorder, unspecified","Cranial nerve disorder, unspecified"
+6788,6789,G53,1,Cranial nerve disorders in diseases classified elsewhere,Cranial nerve disorders in diseases classified elsewhere
+6789,6790,G54,0,Nerve root and plexus disorders,Nerve root and plexus disorders
+6790,6791,G540,1,Brachial plexus disorders,Brachial plexus disorders
+6791,6792,G541,1,Lumbosacral plexus disorders,Lumbosacral plexus disorders
+6792,6793,G542,1,"Cervical root disorders, not elsewhere classified","Cervical root disorders, not elsewhere classified"
+6793,6794,G543,1,"Thoracic root disorders, not elsewhere classified","Thoracic root disorders, not elsewhere classified"
+6794,6795,G544,1,"Lumbosacral root disorders, not elsewhere classified","Lumbosacral root disorders, not elsewhere classified"
+6795,6796,G545,1,Neuralgic amyotrophy,Neuralgic amyotrophy
+6796,6797,G546,1,Phantom limb syndrome with pain,Phantom limb syndrome with pain
+6797,6798,G547,1,Phantom limb syndrome without pain,Phantom limb syndrome without pain
+6798,6799,G548,1,Other nerve root and plexus disorders,Other nerve root and plexus disorders
+6799,6800,G549,1,"Nerve root and plexus disorder, unspecified","Nerve root and plexus disorder, unspecified"
+6800,6801,G55,1,Nerve root and plexus compressions in diseases classd elswhr,Nerve root and plexus compressions in diseases classified elsewhere
+6801,6802,G56,0,Mononeuropathies of upper limb,Mononeuropathies of upper limb
+6802,6803,G560,0,Carpal tunnel syndrome,Carpal tunnel syndrome
+6803,6804,G5600,1,"Carpal tunnel syndrome, unspecified upper limb","Carpal tunnel syndrome, unspecified upper limb"
+6804,6805,G5601,1,"Carpal tunnel syndrome, right upper limb","Carpal tunnel syndrome, right upper limb"
+6805,6806,G5602,1,"Carpal tunnel syndrome, left upper limb","Carpal tunnel syndrome, left upper limb"
+6806,6807,G5603,1,"Carpal tunnel syndrome, bilateral upper limbs","Carpal tunnel syndrome, bilateral upper limbs"
+6807,6808,G561,0,Other lesions of median nerve,Other lesions of median nerve
+6808,6809,G5610,1,"Other lesions of median nerve, unspecified upper limb","Other lesions of median nerve, unspecified upper limb"
+6809,6810,G5611,1,"Other lesions of median nerve, right upper limb","Other lesions of median nerve, right upper limb"
+6810,6811,G5612,1,"Other lesions of median nerve, left upper limb","Other lesions of median nerve, left upper limb"
+6811,6812,G5613,1,"Other lesions of median nerve, bilateral upper limbs","Other lesions of median nerve, bilateral upper limbs"
+6812,6813,G562,0,Lesion of ulnar nerve,Lesion of ulnar nerve
+6813,6814,G5620,1,"Lesion of ulnar nerve, unspecified upper limb","Lesion of ulnar nerve, unspecified upper limb"
+6814,6815,G5621,1,"Lesion of ulnar nerve, right upper limb","Lesion of ulnar nerve, right upper limb"
+6815,6816,G5622,1,"Lesion of ulnar nerve, left upper limb","Lesion of ulnar nerve, left upper limb"
+6816,6817,G5623,1,"Lesion of ulnar nerve, bilateral upper limbs","Lesion of ulnar nerve, bilateral upper limbs"
+6817,6818,G563,0,Lesion of radial nerve,Lesion of radial nerve
+6818,6819,G5630,1,"Lesion of radial nerve, unspecified upper limb","Lesion of radial nerve, unspecified upper limb"
+6819,6820,G5631,1,"Lesion of radial nerve, right upper limb","Lesion of radial nerve, right upper limb"
+6820,6821,G5632,1,"Lesion of radial nerve, left upper limb","Lesion of radial nerve, left upper limb"
+6821,6822,G5633,1,"Lesion of radial nerve, bilateral upper limbs","Lesion of radial nerve, bilateral upper limbs"
+6822,6823,G564,0,Causalgia of upper limb,Causalgia of upper limb
+6823,6824,G5640,1,Causalgia of unspecified upper limb,Causalgia of unspecified upper limb
+6824,6825,G5641,1,Causalgia of right upper limb,Causalgia of right upper limb
+6825,6826,G5642,1,Causalgia of left upper limb,Causalgia of left upper limb
+6826,6827,G5643,1,Causalgia of bilateral upper limbs,Causalgia of bilateral upper limbs
+6827,6828,G568,0,Other specified mononeuropathies of upper limb,Other specified mononeuropathies of upper limb
+6828,6829,G5680,1,Other specified mononeuropathies of unspecified upper limb,Other specified mononeuropathies of unspecified upper limb
+6829,6830,G5681,1,Other specified mononeuropathies of right upper limb,Other specified mononeuropathies of right upper limb
+6830,6831,G5682,1,Other specified mononeuropathies of left upper limb,Other specified mononeuropathies of left upper limb
+6831,6832,G5683,1,Other specified mononeuropathies of bilateral upper limbs,Other specified mononeuropathies of bilateral upper limbs
+6832,6833,G569,0,Unspecified mononeuropathy of upper limb,Unspecified mononeuropathy of upper limb
+6833,6834,G5690,1,Unspecified mononeuropathy of unspecified upper limb,Unspecified mononeuropathy of unspecified upper limb
+6834,6835,G5691,1,Unspecified mononeuropathy of right upper limb,Unspecified mononeuropathy of right upper limb
+6835,6836,G5692,1,Unspecified mononeuropathy of left upper limb,Unspecified mononeuropathy of left upper limb
+6836,6837,G5693,1,Unspecified mononeuropathy of bilateral upper limbs,Unspecified mononeuropathy of bilateral upper limbs
+6837,6838,G57,0,Mononeuropathies of lower limb,Mononeuropathies of lower limb
+6838,6839,G570,0,Lesion of sciatic nerve,Lesion of sciatic nerve
+6839,6840,G5700,1,"Lesion of sciatic nerve, unspecified lower limb","Lesion of sciatic nerve, unspecified lower limb"
+6840,6841,G5701,1,"Lesion of sciatic nerve, right lower limb","Lesion of sciatic nerve, right lower limb"
+6841,6842,G5702,1,"Lesion of sciatic nerve, left lower limb","Lesion of sciatic nerve, left lower limb"
+6842,6843,G5703,1,"Lesion of sciatic nerve, bilateral lower limbs","Lesion of sciatic nerve, bilateral lower limbs"
+6843,6844,G571,0,Meralgia paresthetica,Meralgia paresthetica
+6844,6845,G5710,1,"Meralgia paresthetica, unspecified lower limb","Meralgia paresthetica, unspecified lower limb"
+6845,6846,G5711,1,"Meralgia paresthetica, right lower limb","Meralgia paresthetica, right lower limb"
+6846,6847,G5712,1,"Meralgia paresthetica, left lower limb","Meralgia paresthetica, left lower limb"
+6847,6848,G5713,1,"Meralgia paresthetica, bilateral lower limbs","Meralgia paresthetica, bilateral lower limbs"
+6848,6849,G572,0,Lesion of femoral nerve,Lesion of femoral nerve
+6849,6850,G5720,1,"Lesion of femoral nerve, unspecified lower limb","Lesion of femoral nerve, unspecified lower limb"
+6850,6851,G5721,1,"Lesion of femoral nerve, right lower limb","Lesion of femoral nerve, right lower limb"
+6851,6852,G5722,1,"Lesion of femoral nerve, left lower limb","Lesion of femoral nerve, left lower limb"
+6852,6853,G5723,1,"Lesion of femoral nerve, bilateral lower limbs","Lesion of femoral nerve, bilateral lower limbs"
+6853,6854,G573,0,Lesion of lateral popliteal nerve,Lesion of lateral popliteal nerve
+6854,6855,G5730,1,"Lesion of lateral popliteal nerve, unspecified lower limb","Lesion of lateral popliteal nerve, unspecified lower limb"
+6855,6856,G5731,1,"Lesion of lateral popliteal nerve, right lower limb","Lesion of lateral popliteal nerve, right lower limb"
+6856,6857,G5732,1,"Lesion of lateral popliteal nerve, left lower limb","Lesion of lateral popliteal nerve, left lower limb"
+6857,6858,G5733,1,"Lesion of lateral popliteal nerve, bilateral lower limbs","Lesion of lateral popliteal nerve, bilateral lower limbs"
+6858,6859,G574,0,Lesion of medial popliteal nerve,Lesion of medial popliteal nerve
+6859,6860,G5740,1,"Lesion of medial popliteal nerve, unspecified lower limb","Lesion of medial popliteal nerve, unspecified lower limb"
+6860,6861,G5741,1,"Lesion of medial popliteal nerve, right lower limb","Lesion of medial popliteal nerve, right lower limb"
+6861,6862,G5742,1,"Lesion of medial popliteal nerve, left lower limb","Lesion of medial popliteal nerve, left lower limb"
+6862,6863,G5743,1,"Lesion of medial popliteal nerve, bilateral lower limbs","Lesion of medial popliteal nerve, bilateral lower limbs"
+6863,6864,G575,0,Tarsal tunnel syndrome,Tarsal tunnel syndrome
+6864,6865,G5750,1,"Tarsal tunnel syndrome, unspecified lower limb","Tarsal tunnel syndrome, unspecified lower limb"
+6865,6866,G5751,1,"Tarsal tunnel syndrome, right lower limb","Tarsal tunnel syndrome, right lower limb"
+6866,6867,G5752,1,"Tarsal tunnel syndrome, left lower limb","Tarsal tunnel syndrome, left lower limb"
+6867,6868,G5753,1,"Tarsal tunnel syndrome, bilateral lower limbs","Tarsal tunnel syndrome, bilateral lower limbs"
+6868,6869,G576,0,Lesion of plantar nerve,Lesion of plantar nerve
+6869,6870,G5760,1,"Lesion of plantar nerve, unspecified lower limb","Lesion of plantar nerve, unspecified lower limb"
+6870,6871,G5761,1,"Lesion of plantar nerve, right lower limb","Lesion of plantar nerve, right lower limb"
+6871,6872,G5762,1,"Lesion of plantar nerve, left lower limb","Lesion of plantar nerve, left lower limb"
+6872,6873,G5763,1,"Lesion of plantar nerve, bilateral lower limbs","Lesion of plantar nerve, bilateral lower limbs"
+6873,6874,G577,0,Causalgia of lower limb,Causalgia of lower limb
+6874,6875,G5770,1,Causalgia of unspecified lower limb,Causalgia of unspecified lower limb
+6875,6876,G5771,1,Causalgia of right lower limb,Causalgia of right lower limb
+6876,6877,G5772,1,Causalgia of left lower limb,Causalgia of left lower limb
+6877,6878,G5773,1,Causalgia of bilateral lower limbs,Causalgia of bilateral lower limbs
+6878,6879,G578,0,Other specified mononeuropathies of lower limb,Other specified mononeuropathies of lower limb
+6879,6880,G5780,1,Other specified mononeuropathies of unspecified lower limb,Other specified mononeuropathies of unspecified lower limb
+6880,6881,G5781,1,Other specified mononeuropathies of right lower limb,Other specified mononeuropathies of right lower limb
+6881,6882,G5782,1,Other specified mononeuropathies of left lower limb,Other specified mononeuropathies of left lower limb
+6882,6883,G5783,1,Other specified mononeuropathies of bilateral lower limbs,Other specified mononeuropathies of bilateral lower limbs
+6883,6884,G579,0,Unspecified mononeuropathy of lower limb,Unspecified mononeuropathy of lower limb
+6884,6885,G5790,1,Unspecified mononeuropathy of unspecified lower limb,Unspecified mononeuropathy of unspecified lower limb
+6885,6886,G5791,1,Unspecified mononeuropathy of right lower limb,Unspecified mononeuropathy of right lower limb
+6886,6887,G5792,1,Unspecified mononeuropathy of left lower limb,Unspecified mononeuropathy of left lower limb
+6887,6888,G5793,1,Unspecified mononeuropathy of bilateral lower limbs,Unspecified mononeuropathy of bilateral lower limbs
+6888,6889,G58,0,Other mononeuropathies,Other mononeuropathies
+6889,6890,G580,1,Intercostal neuropathy,Intercostal neuropathy
+6890,6891,G587,1,Mononeuritis multiplex,Mononeuritis multiplex
+6891,6892,G588,1,Other specified mononeuropathies,Other specified mononeuropathies
+6892,6893,G589,1,"Mononeuropathy, unspecified","Mononeuropathy, unspecified"
+6893,6894,G59,1,Mononeuropathy in diseases classified elsewhere,Mononeuropathy in diseases classified elsewhere
+6894,6895,G60,0,Hereditary and idiopathic neuropathy,Hereditary and idiopathic neuropathy
+6895,6896,G600,1,Hereditary motor and sensory neuropathy,Hereditary motor and sensory neuropathy
+6896,6897,G601,1,Refsum's disease,Refsum's disease
+6897,6898,G602,1,Neuropathy in association with hereditary ataxia,Neuropathy in association with hereditary ataxia
+6898,6899,G603,1,Idiopathic progressive neuropathy,Idiopathic progressive neuropathy
+6899,6900,G608,1,Other hereditary and idiopathic neuropathies,Other hereditary and idiopathic neuropathies
+6900,6901,G609,1,"Hereditary and idiopathic neuropathy, unspecified","Hereditary and idiopathic neuropathy, unspecified"
+6901,6902,G61,0,Inflammatory polyneuropathy,Inflammatory polyneuropathy
+6902,6903,G610,1,Guillain-Barre syndrome,Guillain-Barre syndrome
+6903,6904,G611,1,Serum neuropathy,Serum neuropathy
+6904,6905,G618,0,Other inflammatory polyneuropathies,Other inflammatory polyneuropathies
+6905,6906,G6181,1,Chronic inflammatory demyelinating polyneuritis,Chronic inflammatory demyelinating polyneuritis
+6906,6907,G6182,1,Multifocal motor neuropathy,Multifocal motor neuropathy
+6907,6908,G6189,1,Other inflammatory polyneuropathies,Other inflammatory polyneuropathies
+6908,6909,G619,1,"Inflammatory polyneuropathy, unspecified","Inflammatory polyneuropathy, unspecified"
+6909,6910,G62,0,Other and unspecified polyneuropathies,Other and unspecified polyneuropathies
+6910,6911,G620,1,Drug-induced polyneuropathy,Drug-induced polyneuropathy
+6911,6912,G621,1,Alcoholic polyneuropathy,Alcoholic polyneuropathy
+6912,6913,G622,1,Polyneuropathy due to other toxic agents,Polyneuropathy due to other toxic agents
+6913,6914,G628,0,Other specified polyneuropathies,Other specified polyneuropathies
+6914,6915,G6281,1,Critical illness polyneuropathy,Critical illness polyneuropathy
+6915,6916,G6282,1,Radiation-induced polyneuropathy,Radiation-induced polyneuropathy
+6916,6917,G6289,1,Other specified polyneuropathies,Other specified polyneuropathies
+6917,6918,G629,1,"Polyneuropathy, unspecified","Polyneuropathy, unspecified"
+6918,6919,G63,1,Polyneuropathy in diseases classified elsewhere,Polyneuropathy in diseases classified elsewhere
+6919,6920,G64,1,Other disorders of peripheral nervous system,Other disorders of peripheral nervous system
+6920,6921,G65,0,Sequelae of inflammatory and toxic polyneuropathies,Sequelae of inflammatory and toxic polyneuropathies
+6921,6922,G650,1,Sequelae of Guillain-Barre syndrome,Sequelae of Guillain-Barre syndrome
+6922,6923,G651,1,Sequelae of other inflammatory polyneuropathy,Sequelae of other inflammatory polyneuropathy
+6923,6924,G652,1,Sequelae of toxic polyneuropathy,Sequelae of toxic polyneuropathy
+6924,6925,G70,0,Myasthenia gravis and other myoneural disorders,Myasthenia gravis and other myoneural disorders
+6925,6926,G700,0,Myasthenia gravis,Myasthenia gravis
+6926,6927,G7000,1,Myasthenia gravis without (acute) exacerbation,Myasthenia gravis without (acute) exacerbation
+6927,6928,G7001,1,Myasthenia gravis with (acute) exacerbation,Myasthenia gravis with (acute) exacerbation
+6928,6929,G701,1,Toxic myoneural disorders,Toxic myoneural disorders
+6929,6930,G702,1,Congenital and developmental myasthenia,Congenital and developmental myasthenia
+6930,6931,G708,0,Other specified myoneural disorders,Other specified myoneural disorders
+6931,6932,G7080,1,"Lambert-Eaton syndrome, unspecified","Lambert-Eaton syndrome, unspecified"
+6932,6933,G7081,1,Lambert-Eaton syndrome in disease classified elsewhere,Lambert-Eaton syndrome in disease classified elsewhere
+6933,6934,G7089,1,Other specified myoneural disorders,Other specified myoneural disorders
+6934,6935,G709,1,"Myoneural disorder, unspecified","Myoneural disorder, unspecified"
+6935,6936,G71,0,Primary disorders of muscles,Primary disorders of muscles
+6936,6937,G710,0,Muscular dystrophy,Muscular dystrophy
+6937,6938,G7100,1,"Muscular dystrophy, unspecified","Muscular dystrophy, unspecified"
+6938,6939,G7101,1,Duchenne or Becker muscular dystrophy,Duchenne or Becker muscular dystrophy
+6939,6940,G7102,1,Facioscapulohumeral muscular dystrophy,Facioscapulohumeral muscular dystrophy
+6940,6941,G7103,0,Limb girdle muscular dystrophies,Limb girdle muscular dystrophies
+6941,6942,G71031,1,Autosomal dominant limb girdle muscular dystrophy,Autosomal dominant limb girdle muscular dystrophy
+6942,6943,G71032,1,Autosom recess limb girdle musc dyst d/t calpain-3 dysfnct,Autosomal recessive limb girdle muscular dystrophy due to calpain-3 dysfunction
+6943,6944,G71033,1,Limb girdle muscular dystrophy due to dysferlin dysfunction,Limb girdle muscular dystrophy due to dysferlin dysfunction
+6944,6945,G71034,0,Limb girdle musc dyst due to sarcoglycan dysfunction,Limb girdle muscular dystrophy due to sarcoglycan dysfunction
+6945,6946,G710340,1,"Limb girdle musc dyst due to sarcoglycan dysfnct, unsp","Limb girdle muscular dystrophy due to sarcoglycan dysfunction, unspecified"
+6946,6947,G710341,1,Limb girdle musc dyst due to alpha sarcoglycan dysfunction,Limb girdle muscular dystrophy due to alpha sarcoglycan dysfunction
+6947,6948,G710342,1,Limb girdle musc dyst due to beta sarcoglycan dysfunction,Limb girdle muscular dystrophy due to beta sarcoglycan dysfunction
+6948,6949,G710349,1,Limb girdle musc dyst due to other sarcoglycan dysfunction,Limb girdle muscular dystrophy due to other sarcoglycan dysfunction
+6949,6950,G71035,1,Limb girdle musc dyst due to anoctamin-5 dysfunction,Limb girdle muscular dystrophy due to anoctamin-5 dysfunction
+6950,6951,G71036,1,Limb girdle musc dyst due to fukutin related protein dysfnct,Limb girdle muscular dystrophy due to fukutin related protein dysfunction
+6951,6952,G71038,1,Other limb girdle muscular dystrophy,Other limb girdle muscular dystrophy
+6952,6953,G71039,1,"Limb girdle muscular dystrophy, unspecified","Limb girdle muscular dystrophy, unspecified"
+6953,6954,G7109,1,Other specified muscular dystrophies,Other specified muscular dystrophies
+6954,6955,G711,0,Myotonic disorders,Myotonic disorders
+6955,6956,G7111,1,Myotonic muscular dystrophy,Myotonic muscular dystrophy
+6956,6957,G7112,1,Myotonia congenita,Myotonia congenita
+6957,6958,G7113,1,Myotonic chondrodystrophy,Myotonic chondrodystrophy
+6958,6959,G7114,1,Drug induced myotonia,Drug induced myotonia
+6959,6960,G7119,1,Other specified myotonic disorders,Other specified myotonic disorders
+6960,6961,G712,0,Congenital myopathies,Congenital myopathies
+6961,6962,G7120,1,"Congenital myopathy, unspecified","Congenital myopathy, unspecified"
+6962,6963,G7121,1,Nemaline myopathy,Nemaline myopathy
+6963,6964,G7122,0,Centronuclear myopathy,Centronuclear myopathy
+6964,6965,G71220,1,X-linked myotubular myopathy,X-linked myotubular myopathy
+6965,6966,G71228,1,Other centronuclear myopathy,Other centronuclear myopathy
+6966,6967,G7129,1,Other congenital myopathy,Other congenital myopathy
+6967,6968,G713,1,"Mitochondrial myopathy, not elsewhere classified","Mitochondrial myopathy, not elsewhere classified"
+6968,6969,G718,1,Other primary disorders of muscles,Other primary disorders of muscles
+6969,6970,G719,1,"Primary disorder of muscle, unspecified","Primary disorder of muscle, unspecified"
+6970,6971,G72,0,Other and unspecified myopathies,Other and unspecified myopathies
+6971,6972,G720,1,Drug-induced myopathy,Drug-induced myopathy
+6972,6973,G721,1,Alcoholic myopathy,Alcoholic myopathy
+6973,6974,G722,1,Myopathy due to other toxic agents,Myopathy due to other toxic agents
+6974,6975,G723,1,Periodic paralysis,Periodic paralysis
+6975,6976,G724,0,"Inflammatory and immune myopathies, not elsewhere classified","Inflammatory and immune myopathies, not elsewhere classified"
+6976,6977,G7241,1,Inclusion body myositis [IBM],Inclusion body myositis [IBM]
+6977,6978,G7249,1,"Oth inflammatory and immune myopathies, NEC","Other inflammatory and immune myopathies, not elsewhere classified"
+6978,6979,G728,0,Other specified myopathies,Other specified myopathies
+6979,6980,G7281,1,Critical illness myopathy,Critical illness myopathy
+6980,6981,G7289,1,Other specified myopathies,Other specified myopathies
+6981,6982,G729,1,"Myopathy, unspecified","Myopathy, unspecified"
+6982,6983,G73,0,Disord of myoneural junction and muscle in dis classd elswhr,Disorders of myoneural junction and muscle in diseases classified elsewhere
+6983,6984,G731,1,Lambert-Eaton syndrome in neoplastic disease,Lambert-Eaton syndrome in neoplastic disease
+6984,6985,G733,1,Myasthenic syndromes in other diseases classified elsewhere,Myasthenic syndromes in other diseases classified elsewhere
+6985,6986,G737,1,Myopathy in diseases classified elsewhere,Myopathy in diseases classified elsewhere
+6986,6987,G80,0,Cerebral palsy,Cerebral palsy
+6987,6988,G800,1,Spastic quadriplegic cerebral palsy,Spastic quadriplegic cerebral palsy
+6988,6989,G801,1,Spastic diplegic cerebral palsy,Spastic diplegic cerebral palsy
+6989,6990,G802,1,Spastic hemiplegic cerebral palsy,Spastic hemiplegic cerebral palsy
+6990,6991,G803,1,Athetoid cerebral palsy,Athetoid cerebral palsy
+6991,6992,G804,1,Ataxic cerebral palsy,Ataxic cerebral palsy
+6992,6993,G808,1,Other cerebral palsy,Other cerebral palsy
+6993,6994,G809,1,"Cerebral palsy, unspecified","Cerebral palsy, unspecified"
+6994,6995,G81,0,Hemiplegia and hemiparesis,Hemiplegia and hemiparesis
+6995,6996,G810,0,Flaccid hemiplegia,Flaccid hemiplegia
+6996,6997,G8100,1,Flaccid hemiplegia affecting unspecified side,Flaccid hemiplegia affecting unspecified side
+6997,6998,G8101,1,Flaccid hemiplegia affecting right dominant side,Flaccid hemiplegia affecting right dominant side
+6998,6999,G8102,1,Flaccid hemiplegia affecting left dominant side,Flaccid hemiplegia affecting left dominant side
+6999,7000,G8103,1,Flaccid hemiplegia affecting right nondominant side,Flaccid hemiplegia affecting right nondominant side
+7000,7001,G8104,1,Flaccid hemiplegia affecting left nondominant side,Flaccid hemiplegia affecting left nondominant side
+7001,7002,G811,0,Spastic hemiplegia,Spastic hemiplegia
+7002,7003,G8110,1,Spastic hemiplegia affecting unspecified side,Spastic hemiplegia affecting unspecified side
+7003,7004,G8111,1,Spastic hemiplegia affecting right dominant side,Spastic hemiplegia affecting right dominant side
+7004,7005,G8112,1,Spastic hemiplegia affecting left dominant side,Spastic hemiplegia affecting left dominant side
+7005,7006,G8113,1,Spastic hemiplegia affecting right nondominant side,Spastic hemiplegia affecting right nondominant side
+7006,7007,G8114,1,Spastic hemiplegia affecting left nondominant side,Spastic hemiplegia affecting left nondominant side
+7007,7008,G819,0,"Hemiplegia, unspecified","Hemiplegia, unspecified"
+7008,7009,G8190,1,"Hemiplegia, unspecified affecting unspecified side","Hemiplegia, unspecified affecting unspecified side"
+7009,7010,G8191,1,"Hemiplegia, unspecified affecting right dominant side","Hemiplegia, unspecified affecting right dominant side"
+7010,7011,G8192,1,"Hemiplegia, unspecified affecting left dominant side","Hemiplegia, unspecified affecting left dominant side"
+7011,7012,G8193,1,"Hemiplegia, unspecified affecting right nondominant side","Hemiplegia, unspecified affecting right nondominant side"
+7012,7013,G8194,1,"Hemiplegia, unspecified affecting left nondominant side","Hemiplegia, unspecified affecting left nondominant side"
+7013,7014,G82,0,Paraplegia (paraparesis) and quadriplegia (quadriparesis),Paraplegia (paraparesis) and quadriplegia (quadriparesis)
+7014,7015,G822,0,Paraplegia,Paraplegia
+7015,7016,G8220,1,"Paraplegia, unspecified","Paraplegia, unspecified"
+7016,7017,G8221,1,"Paraplegia, complete","Paraplegia, complete"
+7017,7018,G8222,1,"Paraplegia, incomplete","Paraplegia, incomplete"
+7018,7019,G825,0,Quadriplegia,Quadriplegia
+7019,7020,G8250,1,"Quadriplegia, unspecified","Quadriplegia, unspecified"
+7020,7021,G8251,1,"Quadriplegia, C1-C4 complete","Quadriplegia, C1-C4 complete"
+7021,7022,G8252,1,"Quadriplegia, C1-C4 incomplete","Quadriplegia, C1-C4 incomplete"
+7022,7023,G8253,1,"Quadriplegia, C5-C7 complete","Quadriplegia, C5-C7 complete"
+7023,7024,G8254,1,"Quadriplegia, C5-C7 incomplete","Quadriplegia, C5-C7 incomplete"
+7024,7025,G83,0,Other paralytic syndromes,Other paralytic syndromes
+7025,7026,G830,1,Diplegia of upper limbs,Diplegia of upper limbs
+7026,7027,G831,0,Monoplegia of lower limb,Monoplegia of lower limb
+7027,7028,G8310,1,Monoplegia of lower limb affecting unspecified side,Monoplegia of lower limb affecting unspecified side
+7028,7029,G8311,1,Monoplegia of lower limb affecting right dominant side,Monoplegia of lower limb affecting right dominant side
+7029,7030,G8312,1,Monoplegia of lower limb affecting left dominant side,Monoplegia of lower limb affecting left dominant side
+7030,7031,G8313,1,Monoplegia of lower limb affecting right nondominant side,Monoplegia of lower limb affecting right nondominant side
+7031,7032,G8314,1,Monoplegia of lower limb affecting left nondominant side,Monoplegia of lower limb affecting left nondominant side
+7032,7033,G832,0,Monoplegia of upper limb,Monoplegia of upper limb
+7033,7034,G8320,1,Monoplegia of upper limb affecting unspecified side,Monoplegia of upper limb affecting unspecified side
+7034,7035,G8321,1,Monoplegia of upper limb affecting right dominant side,Monoplegia of upper limb affecting right dominant side
+7035,7036,G8322,1,Monoplegia of upper limb affecting left dominant side,Monoplegia of upper limb affecting left dominant side
+7036,7037,G8323,1,Monoplegia of upper limb affecting right nondominant side,Monoplegia of upper limb affecting right nondominant side
+7037,7038,G8324,1,Monoplegia of upper limb affecting left nondominant side,Monoplegia of upper limb affecting left nondominant side
+7038,7039,G833,0,"Monoplegia, unspecified","Monoplegia, unspecified"
+7039,7040,G8330,1,"Monoplegia, unspecified affecting unspecified side","Monoplegia, unspecified affecting unspecified side"
+7040,7041,G8331,1,"Monoplegia, unspecified affecting right dominant side","Monoplegia, unspecified affecting right dominant side"
+7041,7042,G8332,1,"Monoplegia, unspecified affecting left dominant side","Monoplegia, unspecified affecting left dominant side"
+7042,7043,G8333,1,"Monoplegia, unspecified affecting right nondominant side","Monoplegia, unspecified affecting right nondominant side"
+7043,7044,G8334,1,"Monoplegia, unspecified affecting left nondominant side","Monoplegia, unspecified affecting left nondominant side"
+7044,7045,G834,1,Cauda equina syndrome,Cauda equina syndrome
+7045,7046,G835,1,Locked-in state,Locked-in state
+7046,7047,G838,0,Other specified paralytic syndromes,Other specified paralytic syndromes
+7047,7048,G8381,1,Brown-Sequard syndrome,Brown-Sequard syndrome
+7048,7049,G8382,1,Anterior cord syndrome,Anterior cord syndrome
+7049,7050,G8383,1,Posterior cord syndrome,Posterior cord syndrome
+7050,7051,G8384,1,Todd's paralysis (postepileptic),Todd's paralysis (postepileptic)
+7051,7052,G8389,1,Other specified paralytic syndromes,Other specified paralytic syndromes
+7052,7053,G839,1,"Paralytic syndrome, unspecified","Paralytic syndrome, unspecified"
+7053,7054,G89,0,"Pain, not elsewhere classified","Pain, not elsewhere classified"
+7054,7055,G890,1,Central pain syndrome,Central pain syndrome
+7055,7056,G891,0,"Acute pain, not elsewhere classified","Acute pain, not elsewhere classified"
+7056,7057,G8911,1,Acute pain due to trauma,Acute pain due to trauma
+7057,7058,G8912,1,Acute post-thoracotomy pain,Acute post-thoracotomy pain
+7058,7059,G8918,1,Other acute postprocedural pain,Other acute postprocedural pain
+7059,7060,G892,0,"Chronic pain, not elsewhere classified","Chronic pain, not elsewhere classified"
+7060,7061,G8921,1,Chronic pain due to trauma,Chronic pain due to trauma
+7061,7062,G8922,1,Chronic post-thoracotomy pain,Chronic post-thoracotomy pain
+7062,7063,G8928,1,Other chronic postprocedural pain,Other chronic postprocedural pain
+7063,7064,G8929,1,Other chronic pain,Other chronic pain
+7064,7065,G893,1,Neoplasm related pain (acute) (chronic),Neoplasm related pain (acute) (chronic)
+7065,7066,G894,1,Chronic pain syndrome,Chronic pain syndrome
+7066,7067,G90,0,Disorders of autonomic nervous system,Disorders of autonomic nervous system
+7067,7068,G900,0,Idiopathic peripheral autonomic neuropathy,Idiopathic peripheral autonomic neuropathy
+7068,7069,G9001,1,Carotid sinus syncope,Carotid sinus syncope
+7069,7070,G9009,1,Other idiopathic peripheral autonomic neuropathy,Other idiopathic peripheral autonomic neuropathy
+7070,7071,G901,1,Familial dysautonomia [Riley-Day],Familial dysautonomia [Riley-Day]
+7071,7072,G902,1,Horner's syndrome,Horner's syndrome
+7072,7073,G903,1,Multi-system degeneration of the autonomic nervous system,Multi-system degeneration of the autonomic nervous system
+7073,7074,G904,1,Autonomic dysreflexia,Autonomic dysreflexia
+7074,7075,G905,0,Complex regional pain syndrome I (CRPS I),Complex regional pain syndrome I (CRPS I)
+7075,7076,G9050,1,"Complex regional pain syndrome I, unspecified","Complex regional pain syndrome I, unspecified"
+7076,7077,G9051,0,Complex regional pain syndrome I of upper limb,Complex regional pain syndrome I of upper limb
+7077,7078,G90511,1,Complex regional pain syndrome I of right upper limb,Complex regional pain syndrome I of right upper limb
+7078,7079,G90512,1,Complex regional pain syndrome I of left upper limb,Complex regional pain syndrome I of left upper limb
+7079,7080,G90513,1,"Complex regional pain syndrome I of upper limb, bilateral","Complex regional pain syndrome I of upper limb, bilateral"
+7080,7081,G90519,1,Complex regional pain syndrome I of unspecified upper limb,Complex regional pain syndrome I of unspecified upper limb
+7081,7082,G9052,0,Complex regional pain syndrome I of lower limb,Complex regional pain syndrome I of lower limb
+7082,7083,G90521,1,Complex regional pain syndrome I of right lower limb,Complex regional pain syndrome I of right lower limb
+7083,7084,G90522,1,Complex regional pain syndrome I of left lower limb,Complex regional pain syndrome I of left lower limb
+7084,7085,G90523,1,"Complex regional pain syndrome I of lower limb, bilateral","Complex regional pain syndrome I of lower limb, bilateral"
+7085,7086,G90529,1,Complex regional pain syndrome I of unspecified lower limb,Complex regional pain syndrome I of unspecified lower limb
+7086,7087,G9059,1,Complex regional pain syndrome I of other specified site,Complex regional pain syndrome I of other specified site
+7087,7088,G908,0,Other disorders of autonomic nervous system,Other disorders of autonomic nervous system
+7088,7089,G9081,1,Serotonin syndrome,Serotonin syndrome
+7089,7090,G9089,1,Other disorders of autonomic nervous system,Other disorders of autonomic nervous system
+7090,7091,G909,1,"Disorder of the autonomic nervous system, unspecified","Disorder of the autonomic nervous system, unspecified"
+7091,7092,G90A,1,Postural orthostatic tachycardia syndrome [POTS],Postural orthostatic tachycardia syndrome [POTS]
+7092,7093,G90B,1,LMNB1-related autosomal dominant leukodystrophy,LMNB1-related autosomal dominant leukodystrophy
+7093,7094,G91,0,Hydrocephalus,Hydrocephalus
+7094,7095,G910,1,Communicating hydrocephalus,Communicating hydrocephalus
+7095,7096,G911,1,Obstructive hydrocephalus,Obstructive hydrocephalus
+7096,7097,G912,1,(Idiopathic) normal pressure hydrocephalus,(Idiopathic) normal pressure hydrocephalus
+7097,7098,G913,1,"Post-traumatic hydrocephalus, unspecified","Post-traumatic hydrocephalus, unspecified"
+7098,7099,G914,1,Hydrocephalus in diseases classified elsewhere,Hydrocephalus in diseases classified elsewhere
+7099,7100,G918,1,Other hydrocephalus,Other hydrocephalus
+7100,7101,G919,1,"Hydrocephalus, unspecified","Hydrocephalus, unspecified"
+7101,7102,G92,0,Toxic encephalopathy,Toxic encephalopathy
+7102,7103,G920,0,Immune effector cell-associated neurotoxicity syndrome,Immune effector cell-associated neurotoxicity syndrome
+7103,7104,G9200,1,"Immune effor cell-associated neurotoxicity synd, grade unsp","Immune effector cell-associated neurotoxicity syndrome, grade unspecified"
+7104,7105,G9201,1,"Immune effector cell-associated neurotoxicity synd, grade 1","Immune effector cell-associated neurotoxicity syndrome, grade 1"
+7105,7106,G9202,1,"Immune effector cell-associated neurotoxicity synd, grade 2","Immune effector cell-associated neurotoxicity syndrome, grade 2"
+7106,7107,G9203,1,"Immune effector cell-associated neurotoxicity synd, grade 3","Immune effector cell-associated neurotoxicity syndrome, grade 3"
+7107,7108,G9204,1,"Immune effector cell-associated neurotoxicity synd, grade 4","Immune effector cell-associated neurotoxicity syndrome, grade 4"
+7108,7109,G9205,1,"Immune effector cell-associated neurotoxicity synd, grade 5","Immune effector cell-associated neurotoxicity syndrome, grade 5"
+7109,7110,G928,1,Other toxic encephalopathy,Other toxic encephalopathy
+7110,7111,G929,1,Unspecified toxic encephalopathy,Unspecified toxic encephalopathy
+7111,7112,G93,0,Other disorders of brain,Other disorders of brain
+7112,7113,G930,1,Cerebral cysts,Cerebral cysts
+7113,7114,G931,1,"Anoxic brain damage, not elsewhere classified","Anoxic brain damage, not elsewhere classified"
+7114,7115,G932,1,Benign intracranial hypertension,Benign intracranial hypertension
+7115,7116,G933,0,Postviral and related fatigue syndromes,Postviral and related fatigue syndromes
+7116,7117,G9331,1,Postviral fatigue syndrome,Postviral fatigue syndrome
+7117,7118,G9332,1,Myalgic encephalomyelitis/chronic fatigue syndrome,Myalgic encephalomyelitis/chronic fatigue syndrome
+7118,7119,G9339,1,Other post infection and related fatigue syndromes,Other post infection and related fatigue syndromes
+7119,7120,G934,0,Other and unspecified encephalopathy,Other and unspecified encephalopathy
+7120,7121,G9340,1,"Encephalopathy, unspecified","Encephalopathy, unspecified"
+7121,7122,G9341,1,Metabolic encephalopathy,Metabolic encephalopathy
+7122,7123,G9342,1,Megalencephalic leukoencephalopathy with subcortical cysts,Megalencephalic leukoencephalopathy with subcortical cysts
+7123,7124,G9343,1,Leukoencephalopathy with calcifications and cysts,Leukoencephalopathy with calcifications and cysts
+7124,7125,G9344,1,Adult-onset leukodystrophy with axonal spheroids,Adult-onset leukodystrophy with axonal spheroids
+7125,7126,G9345,1,Developmental and epileptic encephalopathy,Developmental and epileptic encephalopathy
+7126,7127,G9349,1,Other encephalopathy,Other encephalopathy
+7127,7128,G935,1,Compression of brain,Compression of brain
+7128,7129,G936,1,Cerebral edema,Cerebral edema
+7129,7130,G937,1,Reye's syndrome,Reye's syndrome
+7130,7131,G938,0,Other specified disorders of brain,Other specified disorders of brain
+7131,7132,G9381,1,Temporal sclerosis,Temporal sclerosis
+7132,7133,G9382,1,Brain death,Brain death
+7133,7134,G9389,1,Other specified disorders of brain,Other specified disorders of brain
+7134,7135,G939,1,"Disorder of brain, unspecified","Disorder of brain, unspecified"
+7135,7136,G94,1,Other disorders of brain in diseases classified elsewhere,Other disorders of brain in diseases classified elsewhere
+7136,7137,G95,0,Other and unspecified diseases of spinal cord,Other and unspecified diseases of spinal cord
+7137,7138,G950,1,Syringomyelia and syringobulbia,Syringomyelia and syringobulbia
+7138,7139,G951,0,Vascular myelopathies,Vascular myelopathies
+7139,7140,G9511,1,Acute infarction of spinal cord (embolic) (nonembolic),Acute infarction of spinal cord (embolic) (nonembolic)
+7140,7141,G9519,1,Other vascular myelopathies,Other vascular myelopathies
+7141,7142,G952,0,Other and unspecified cord compression,Other and unspecified cord compression
+7142,7143,G9520,1,Unspecified cord compression,Unspecified cord compression
+7143,7144,G9529,1,Other cord compression,Other cord compression
+7144,7145,G958,0,Other specified diseases of spinal cord,Other specified diseases of spinal cord
+7145,7146,G9581,1,Conus medullaris syndrome,Conus medullaris syndrome
+7146,7147,G9589,1,Other specified diseases of spinal cord,Other specified diseases of spinal cord
+7147,7148,G959,1,"Disease of spinal cord, unspecified","Disease of spinal cord, unspecified"
+7148,7149,G96,0,Other disorders of central nervous system,Other disorders of central nervous system
+7149,7150,G960,0,Cerebrospinal fluid leak,Cerebrospinal fluid leak
+7150,7151,G9600,1,"Cerebrospinal fluid leak, unspecified","Cerebrospinal fluid leak, unspecified"
+7151,7152,G9601,1,"Cranial cerebrospinal fluid leak, spontaneous","Cranial cerebrospinal fluid leak, spontaneous"
+7152,7153,G9602,1,"Spinal cerebrospinal fluid leak, spontaneous","Spinal cerebrospinal fluid leak, spontaneous"
+7153,7154,G9608,1,Other cranial cerebrospinal fluid leak,Other cranial cerebrospinal fluid leak
+7154,7155,G9609,1,Other spinal cerebrospinal fluid leak,Other spinal cerebrospinal fluid leak
+7155,7156,G961,0,"Disorders of meninges, not elsewhere classified","Disorders of meninges, not elsewhere classified"
+7156,7157,G9611,1,Dural tear,Dural tear
+7157,7158,G9612,1,Meningeal adhesions (cerebral) (spinal),Meningeal adhesions (cerebral) (spinal)
+7158,7159,G9619,0,"Other disorders of meninges, not elsewhere classified","Other disorders of meninges, not elsewhere classified"
+7159,7160,G96191,1,Perineural cyst,Perineural cyst
+7160,7161,G96198,1,"Other disorders of meninges, not elsewhere classified","Other disorders of meninges, not elsewhere classified"
+7161,7162,G968,0,Other specified disorders of central nervous system,Other specified disorders of central nervous system
+7162,7163,G9681,0,Intracranial hypotension,Intracranial hypotension
+7163,7164,G96810,1,"Intracranial hypotension, unspecified","Intracranial hypotension, unspecified"
+7164,7165,G96811,1,"Intracranial hypotension, spontaneous","Intracranial hypotension, spontaneous"
+7165,7166,G96819,1,Other intracranial hypotension,Other intracranial hypotension
+7166,7167,G9689,1,Other specified disorders of central nervous system,Other specified disorders of central nervous system
+7167,7168,G969,1,"Disorder of central nervous system, unspecified","Disorder of central nervous system, unspecified"
+7168,7169,G97,0,"Intraop and postproc comp and disorders of nervous sys, NEC","Intraoperative and postprocedural complications and disorders of nervous system, not elsewhere classified"
+7169,7170,G970,1,Cerebrospinal fluid leak from spinal puncture,Cerebrospinal fluid leak from spinal puncture
+7170,7171,G971,1,Other reaction to spinal and lumbar puncture,Other reaction to spinal and lumbar puncture
+7171,7172,G972,1,Intracranial hypotension following ventricular shunting,Intracranial hypotension following ventricular shunting
+7172,7173,G973,0,Intraop hemor/hemtom of a nervous sys org comp a procedure,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a procedure
+7173,7174,G9731,1,Intraop hemor/hemtom of a nervous sys org comp nrv sys proc,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a nervous system procedure
+7174,7175,G9732,1,Intraop hemor/hemtom of a nervous sys org comp oth procedure,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating other procedure
+7175,7176,G974,0,Accidental pnctr & lac of a nervous system org dur proc,Accidental puncture and laceration of a nervous system organ or structure during a procedure
+7176,7177,G9741,1,Accidental puncture or laceration of dura during a procedure,Accidental puncture or laceration of dura during a procedure
+7177,7178,G9748,1,Acc pnctr & lac of nervous sys org during a nervous sys proc,Accidental puncture and laceration of other nervous system organ or structure during a nervous system procedure
+7178,7179,G9749,1,Acc pnctr & lac of nervous sys org during oth procedure,Accidental puncture and laceration of other nervous system organ or structure during other procedure
+7179,7180,G975,0,Postproc hemor of a nervous sys org following a procedure,Postprocedural hemorrhage of a nervous system organ or structure following a procedure
+7180,7181,G9751,1,Postproc hemor of a nervous sys org fol a nervous sys proc,Postprocedural hemorrhage of a nervous system organ or structure following a nervous system procedure
+7181,7182,G9752,1,Postproc hemor of a nervous sys org fol other procedure,Postprocedural hemorrhage of a nervous system organ or structure following other procedure
+7182,7183,G976,0,Postproc hematoma and seroma of a nervous sys org fol a proc,Postprocedural hematoma and seroma of a nervous system organ or structure following a procedure
+7183,7184,G9761,1,Postp hematoma of a nervous sys org fol a nervous sys proc,Postprocedural hematoma of a nervous system organ or structure following a nervous system procedure
+7184,7185,G9762,1,Postproc hematoma of a nervous sys org fol other procedure,Postprocedural hematoma of a nervous system organ or structure following other procedure
+7185,7186,G9763,1,Postproc seroma of a nervous sys org fol a nervous sys proc,Postprocedural seroma of a nervous system organ or structure following a nervous system procedure
+7186,7187,G9764,1,Postproc seroma of a nervous sys org fol other procedure,Postprocedural seroma of a nervous system organ or structure following other procedure
+7187,7188,G978,0,Oth intraop and postproc comp and disorders of nervous sys,Other intraoperative and postprocedural complications and disorders of nervous system
+7188,7189,G9781,1,Other intraoperative complications of nervous system,Other intraoperative complications of nervous system
+7189,7190,G9782,1,Oth postproc complications and disorders of nervous sys,Other postprocedural complications and disorders of nervous system
+7190,7191,G9783,1,Intracranial hypotension following lumbar CSF shunting,Intracranial hypotension following lumbar cerebrospinal fluid shunting
+7191,7192,G9784,1,Intracranial hypotension following other procedure,Intracranial hypotension following other procedure
+7192,7193,G98,0,Other disorders of nervous system not elsewhere classified,Other disorders of nervous system not elsewhere classified
+7193,7194,G980,1,"Neurogenic arthritis, not elsewhere classified","Neurogenic arthritis, not elsewhere classified"
+7194,7195,G988,1,Other disorders of nervous system,Other disorders of nervous system
+7195,7196,G99,0,Oth disorders of nervous system in diseases classd elswhr,Other disorders of nervous system in diseases classified elsewhere
+7196,7197,G990,1,Autonomic neuropathy in diseases classified elsewhere,Autonomic neuropathy in diseases classified elsewhere
+7197,7198,G992,1,Myelopathy in diseases classified elsewhere,Myelopathy in diseases classified elsewhere
+7198,7199,G998,1,Oth disrd of nervous system in diseases classified elsewhere,Other specified disorders of nervous system in diseases classified elsewhere

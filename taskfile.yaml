@@ -1,0 +1,22 @@
+#### #! DO NOT MODIFY THIS FILE #! ####
+
+version: "3"
+output: interleaved
+
+tasks:
+  run-local:
+    cmd: python ai_coding_app/manage.py runserver
+    
+  test-api:
+    cmd: |
+      python scripts/test_api_script.py
+    silent: true
+
+  build-output:
+    cmd: |
+      python ai_coding_app/manage.py runserver > /dev/null 2>&1 &
+      sleep 5
+      timestamp=$(date +%Y%m%d_%H%M%S)
+      python scripts/test_api_script.py > outputs/output_${timestamp}.txt
+      pkill -f "manage.py runserver" || true
+    silent: true

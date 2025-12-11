@@ -1,0 +1,18 @@
+"""
+WSGI config for ai_coding_app project.
+
+It exposes the WSGI callable as a module-level variable named ``application``.
+
+For more information on this file, see
+https://docs.djangoproject.com/en/5.2/howto/deployment/wsgi/
+"""
+
+#### #! DO NOT MODIFY THIS FILE #! ####
+
+import os
+
+from django.core.wsgi import get_wsgi_application
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "ai_coding_app.settings")
+
+application = get_wsgi_application()
