@@ -4,19 +4,9 @@
 
 This Django-based application provides AI-powered ICD-10 code assignment for medical charts using semantic search with vector embeddings. The system ingests medical charts, stores them in a relational database, and automatically assigns relevant ICD-10 diagnostic codes using LangChain and ChromaDB.
 
-## System Architecture
+## System Architecture Components
 
-### Technology Stack
-- **Backend Framework**: Django 5.0 + Django REST Framework
-- **Database**: SQLite (relational data storage)
-- **Vector Store**: ChromaDB (persistent vector database)
-- **AI Framework**: LangChain
-- **Embeddings**: OpenAI text-embedding-3-large
-- **Clustering**: scikit-learn (AgglomerativeClustering)
-
-### Core Components
-
-1. **Chart Ingestion Service** - Processes and stores medical charts with their associated notes
+1. **Chart Ingestion** - Processes and stores medical charts with their associated notes
 2. **Vector Store Builder** - Creates clustered vector embeddings for ICD-10 codes using LangChain
 3. **Semantic Search Engine** - Matches medical notes to ICD-10 codes using similarity search
 4. **REST API** - Provides endpoints for chart management and code assignment
@@ -25,7 +15,7 @@ This Django-based application provides AI-powered ICD-10 code assignment for med
 
 ### Chart Storage Schema
 
-The chart storage schema follows a normalized relational design to efficiently represent the one-to-many relationship between charts and notes:
+The chart storage schema follows a normalized relational design to represent the one-to-many relationship between charts and notes:
 
 **Design Decisions:**
 - **Chart Model**: Stores visit-level information with a unique `case_id` as the primary identifier. The `visit_info` field is a TextField to accommodate varying metadata formats without requiring schema changes.
@@ -50,18 +40,17 @@ This design supports both real-time code assignment (via API) and historical tra
 
 ### Hierarchical Clustering Approach
 
-The system uses hierarchical clustering to organize ICD-10 codes into semantically similar groups, improving search efficiency and accuracy.
+This system uses hierarchical clustering to organize ICD-10 codes into semantically similar groups.
 
 **Implementation Details:**
 1. **Embedding Generation**: All 931 ICD-10 G-codes are embedded using OpenAI's `text-embedding-3-large` model via LangChain, creating 3072-dimensional vector representations.
-2. **Optimal Cluster Selection**: scikit-learn's AgglomerativeClustering is applied with varying k values (8-100), and silhouette scores are calculated to identify the optimal number of clusters.
+2. **Optimal Cluster Selection**: Clustering is done with scikit-learn's AgglomerativeClustering with k values ranging from 60 to 80 (this requires some more tweaking and finesse, I think), and silhouette scores are calculated to identify the optimal number of clusters.
 3. **Cluster Storage**: Each cluster is stored as a separate LangChain Chroma collection, with Document objects using `page_content=long_description` and metadata containing the ICD code and descriptions.
 
 **Why Hierarchical Clustering:**
 - **Efficiency**: Searching within smaller clusters is faster than searching all 931 codes
 - **Semantic Grouping**: Similar conditions (e.g., migraines vs. epilepsy) naturally cluster together
-- **Scalability**: The approach scales well if the code set expands
-- **Simplicity**: Hierarchical clustering requires minimal hyperparameter tuning compared to more complex methods
+- **Simplicity**: Hierarchical clustering requires less hyperparameter tuning versus more complex methods
 
 ### Code Assignment Algorithm
 
@@ -76,112 +65,19 @@ When a medical chart is submitted for coding:
 
 ## API Endpoints
 
-### Chart Management
-
 #### GET `/app/chart-schema/`
 Returns the schema definition for Chart and Note models.
 
-**Response:**
-```json
-{
-  "Chart": {
-    "id": {"type": "AutoField", "required": false},
-    "case_id": {"type": "CharField", "required": true},
-    "visit_info": {"type": "TextField", "required": true}
-  },
-  "Note": {
-    "id": {"type": "AutoField", "required": false},
-    "chart": {"type": "ForeignKey", "required": true},
-    "note_id": {"type": "CharField", "required": true},
-    "title": {"type": "CharField", "required": true},
-    "content": {"type": "TextField", "required": true}
-  }
-}
-```
-
 #### POST `/app/upload-chart/`
 Uploads a medical chart with its notes to the database.
-
-**Request:**
-```json
-{
-  "case_id": "case12",
-  "visit_info": "In-Person Visit 3/18/2025, 14:30 EST",
-  "notes": [
-    {
-      "note_id": "note-hpi-case12",
-      "title": "HPI",
-      "content": "Patient has a 5-year history of migraines..."
-    }
-  ]
-}
-```
-
-**Response:**
-```json
-{
-  "message": "Successfully uploaded chart to SQLite database!",
-  "count": 1
-}
-```
 
 **Idempotency**: Attempting to upload the same `case_id` twice returns the existing chart count without creating duplicates.
 
 #### GET `/app/charts/`
 Retrieves all charts with their associated notes.
 
-**Response:**
-```json
-[
-  {
-    "id": 1,
-    "case_id": "case12",
-    "visit_info": "In-Person Visit 3/18/2025, 14:30 EST",
-    "notes": [
-      {
-        "id": 1,
-        "note_id": "note-hpi-case12",
-        "title": "HPI",
-        "content": "Patient has a 5-year history..."
-      }
-    ]
-  }
-]
-```
-
-### Code Assignment
-
 #### POST `/app/code-chart/`
 Assigns ICD-10 codes to all notes in a chart using AI-powered semantic search.
-
-**Request:**
-```json
-{
-  "case_id": "case12",
-  "save": true
-}
-```
-
-**Response:**
-```json
-{
-  "case_id": "case12",
-  "codes": [
-    {
-      "note_id": "note-hpi-case12",
-      "note_title": "HPI",
-      "icd_code": "G43.909",
-      "short_description": "Migraine, unspecified, not intractable",
-      "similarity_score": 0.8234
-    }
-  ],
-  "saved": true
-}
-```
-
-**Parameters:**
-- `case_id` (required): The chart identifier
-- `save` (optional, default=false): If true, persists code assignments to the database
 
 ## Setup and Usage
 
@@ -210,7 +106,7 @@ python manage.py migrate
 
 ### Building the Vector Store
 
-**One-time setup** (takes ~5-10 minutes):
+**One-time setup** (takes ~5 minutes):
 ```bash
 cd ai_coding_app
 uv run python ../scripts/build_vector_store.py
@@ -248,43 +144,6 @@ This executes all API endpoints in sequence:
 4. Lists all charts
 5. Assigns ICD-10 codes with persistence
 
-## Project Structure
-
-```
-ai-coding-mvp/
-├── ai_coding_app/
-│   ├── app/
-│   │   ├── models.py          # Database models (Chart, Note, ICD10Code, CodeAssignment)
-│   │   ├── views.py           # API endpoints
-│   │   ├── urls.py            # URL routing
-│   │   ├── admin.py           # Django admin configuration
-│   │   └── migrations/        # Database migrations
-│   ├── manage.py
-│   └── db.sqlite3             # SQLite database
-├── scripts/
-│   ├── build_vector_store.py  # Vector store creation with LangChain
-│   ├── test_api_script.py     # API testing script
-│   └── inspect_clusters.py    # Cluster analysis tool
-├── data/
-│   ├── g_codes.csv            # ICD-10 G-codes dataset
-│   └── medical_chart.txt      # Sample medical chart
-├── chroma_db/                 # Persisted ChromaDB vector store
-├── pyproject.toml             # Python dependencies
-├── taskfile.yaml              # Task runner configuration
-└── README.md
-```
-
-## Key Features
-
-- **LangChain Integration**: Uses LangChain framework for embeddings and vector store management
-- **Semantic Search**: AI-powered code matching using vector similarity
-- **Hierarchical Clustering**: Optimized search with automatic cluster selection
-- **Idempotent Uploads**: Prevents duplicate chart entries
-- **Persistent Storage**: Both relational (SQLite) and vector (ChromaDB) data persisted
-- **Comprehensive API**: RESTful endpoints for all operations
-- **Type Hints**: Full type annotations for better code maintainability
-- **Documentation**: Sphinx-style docstrings throughout
-
 ## Performance Characteristics
 
 - **Vector Store Build**: ~5-10 minutes (one-time)
@@ -299,3 +158,4 @@ ai-coding-mvp/
 - Confidence threshold filtering for low-similarity matches
 - Integration with electronic health record (EHR) systems
 - Real-time code suggestion API during chart documentation
+- Automated review of mutually exclusive codes 

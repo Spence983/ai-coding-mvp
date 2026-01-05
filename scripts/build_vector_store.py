@@ -214,7 +214,7 @@ def main():
     '''Upon inspection, a value of k greater than 100 might improve the clustering quality.
         The consequence is that creating the code chart takes MUCH longer.
     '''
-    optimal_k = find_optimal_clusters(embeddings, min_k=60, max_k=100, step=2)
+    optimal_k = find_optimal_clusters(embeddings, min_k=60, max_k=80, step=2)
 
     # Step 4: Perform clustering
     cluster_labels = perform_clustering(embeddings, optimal_k)
