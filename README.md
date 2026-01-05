@@ -49,6 +49,7 @@ This system uses hierarchical clustering to organize ICD-10 codes into semantica
 
 **Why Hierarchical Clustering:**
 - **Efficiency**: Searching within smaller clusters is faster than searching all 931 codes
+- **Simplicity**: For an MVP, using BERT might be a bit overkill. This would be an interesting next step, though
 - **Semantic Grouping**: Similar conditions (e.g., migraines vs. epilepsy) naturally cluster together
 - **Simplicity**: Hierarchical clustering requires less hyperparameter tuning versus more complex methods
 
